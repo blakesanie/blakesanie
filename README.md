@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm <a href="https://blakesanie.com">Blake</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://blakesanie.com">Blake</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
+</h1>
 
 <div align="center">
     <a href="https://blakesanie.com" target="_blank" >
