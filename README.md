@@ -1,23 +1,14 @@
-## Hi, I'm Blake 👋
+<h1 align="center">Hi, I'm <a href="https://blakesanie.com">Blake</a> 👋</h1>
 
-### I am:
+<div align="center">
+    <a href="https://blakesanie.com" target="_blank" style="margin: 0 6px">
+    <img height="32" width="32" src="https://image.flaticon.com/icons/svg/88/88272.svg" /></a>
+    <a href="mailto:blake@sanie.com" target="_blank" style="margin: 0 6px">
+    <img height="32" src="https://image.flaticon.com/icons/svg/88/88279.svg" /></a>
+    <a href="https://www.instagram.com/blake_sanie/" target="_blank" style="margin: 0 6px">
+    <img height="32" width="32" src="https://image.flaticon.com/icons/svg/87/87390.svg" /></a>
+    <a href="https://www.linkedin.com/in/blakesanie" target="_blank" style="margin: 0 6px">
+    <img height="32" width="32" src="https://image.flaticon.com/icons/svg/87/87396.svg" /></a>
+</div>
 
-- 🐝 a current CS student at [Georgia Tech][gatech]
-- 💎 fascinated by the intersection of computing, finance, and eCommerce
-- 📱 the founder of intelligent stock ranking website and app, [Investivision][investivision]
-
-[gatech]: https://en.wikipedia.org/wiki/Georgia_Tech
-
-[investivision]: https://investivision.com
-
-### Let's Connect
-
-[<img height="30px" src="https://km.support.apple.com/kb/image.jsp?productid=PL165&size=240x240" />][website] [<img height="30px" src="https://cdn.osxdaily.com/wp-content/uploads/2017/02/instagram-icon.jpg" />][instagram] [<img height="30px" src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" />](mailto:blake@sanie.com) [<img height="30px" src="https://media.idownloadblog.com/wp-content/uploads/2013/02/LinkedIn-app-icon-small.jpg" />][linkedIn]
-
-[website]: https://blakesanie.com
-[instagram]: https://www.instagram.com/blake_sanie/
-[linkedIn]: https://www.linkedin.com/in/blakesanie/
-
-### Languages
-
-<img height="24" src="https://blakesanie.com/cs/techUsed/python.png" /> <img height="24" src="https://blakesanie.com/cs/techUsed/java.png" /> <img height="24" src="https://blakesanie.com/cs/techUsed/js.png" /> <img height="24" src="https://blakesanie.com/cs/techUsed/html.png" /> <img height="24" src="https://blakesanie.com/cs/techUsed/css.png" /> <img height="24" src="https://blakesanie.com/cs/techUsed/swift.png" />
+<h5 align="center">CS student at <a href="https://en.wikipedia.org/wiki/Georgia_Tech" target="_blank">Georgia Tech</a> | Founder of <a href="https://investivision.com" target="_blank">Investivision</a> | Computing, Finance, and eCommerce | Intelligence | Scalability and Automation</h3>
