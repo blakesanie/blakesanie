@@ -11,4 +11,4 @@
     <img height="32" width="32" src="https://image.flaticon.com/icons/svg/87/87396.svg" /></a>
 </div>
 
-<h4 align="center">CS student at <a href="https://en.wikipedia.org/wiki/Georgia_Tech" target="_blank">Georgia Tech</a> | Founder of <a href="https://investivision.com" target="_blank">Investivision</a> | Computing, Finance, and eCommerce | Intelligence | Scalability and Automation</h3>
+<h3 align="center">CS at <a href="https://en.wikipedia.org/wiki/Georgia_Tech" target="_blank">Georgia Tech</a> | Founder of <a href="https://investivision.com" target="_blank">Investivision</a> | Computing, Finance, and eCommerce | Intelligence | Scalability and Automation</h3>
