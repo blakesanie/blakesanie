@@ -16,7 +16,7 @@
 
 ---
 
-<h4 align="center">I work with</h4>
+<h3 align="center">I work with</h3>
 
 <div align="center">
 <img height="32" style="margin-bottom: 14px;" src="https://blakesanie.com/cs/techUsed/python.png" />&nbsp;&nbsp;&nbsp;
@@ -27,7 +27,7 @@
 <img height="32" style="margin-bottom: 14px;" src="https://blakesanie.com/cs/techUsed/swift.png" />&nbsp;&nbsp;&nbsp;
 </div>
 
-<h4 align="center">and</h4>
+<h3 align="center">and</h3>
 
 <div align="center">
 <img height="26" style="margin-bottom: 10px;" src="https://blakesanie.com/cs/techUsed/IFTTT.jpeg" />&nbsp;&nbsp;&nbsp;
@@ -58,4 +58,7 @@
 <img height="26" style="margin-bottom: 10px;" src="https://blakesanie.com/cs/techUsed/nodejs.png" />&nbsp;&nbsp;&nbsp;
 </div>
 
-<h4 align="center">to build<br /><span style="font-size: 160%;font-style: italic; text-decoration: underline;">Experiences</span></h4>
+<h3 align="center">to build</h3>
+<p align="center" style="font-size: 30px; font-weight: bold; font-style: italic;">
+Experiences
+</p>
