@@ -58,7 +58,6 @@
 <img height="26" style="margin-bottom: 10px;" src="https://blakesanie.com/cs/techUsed/nodejs.png" />&nbsp;&nbsp;&nbsp;
 </div>
 
-<h3 align="center">to build</h3>
-<p align="center" style="font-size: 30px; font-weight: bold; font-style: italic;">
+<h3 align="center">to build <span style="font-style: italic;">
 Experiences
-</p>
+</span></h3>
