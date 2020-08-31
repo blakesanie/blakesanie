@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://blakesanie.com">Blake</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
+<h1 align="center">👨🏻‍💻 Hi, I'm <a href="https://blakesanie.com">Blake</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
 </h1>
 
 <div align="center">
@@ -21,7 +21,7 @@
 <div align="center">
 <img height="32" style="margin-bottom: 14px;" src="https://blakesanie.com/cs/techUsed/python.png" />&nbsp;&nbsp;&nbsp;
 <img height="32" style="margin-bottom: 14px;" src="https://blakesanie.com/cs/techUsed/java.png" />&nbsp;&nbsp;&nbsp;
-<img height="32" style="margin-bottom: 10px;" src="https://blakesanie.com/cs/techUsed/js.png" />&nbsp;&nbsp;&nbsp;
+<img height="32" style="margin-bottom: 14px;" src="https://blakesanie.com/cs/techUsed/js.png" />&nbsp;&nbsp;&nbsp;
 <img height="32" style="margin-bottom: 14px;" src="https://blakesanie.com/cs/techUsed/html.png" />&nbsp;&nbsp;&nbsp;
 <img height="32" style="margin-bottom: 14px;" src="https://blakesanie.com/cs/techUsed/css.png" />&nbsp;&nbsp;&nbsp;
 <img height="32" style="margin-bottom: 14px;" src="https://blakesanie.com/cs/techUsed/swift.png" />&nbsp;&nbsp;&nbsp;
@@ -58,4 +58,4 @@
 <img height="26" style="margin-bottom: 10px;" src="https://blakesanie.com/cs/techUsed/nodejs.png" />&nbsp;&nbsp;&nbsp;
 </div>
 
-<h3 align="center">to build 🔥</h3>
+<h3 align="center">to build ⚡💥🔥</h3>
