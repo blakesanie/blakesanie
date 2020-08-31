@@ -58,6 +58,4 @@
 <img height="26" style="margin-bottom: 10px;" src="https://blakesanie.com/cs/techUsed/nodejs.png" />&nbsp;&nbsp;&nbsp;
 </div>
 
-<h3 align="center">to build <span style="font-style: italic;">
-Experiences
-</span></h3>
+<h3 align="center">to build 🔥</h3>
