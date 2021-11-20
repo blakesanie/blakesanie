@@ -8,21 +8,16 @@
 
 
 
+
 <p align="center">
-
-<a href="https://blakesanie.com/linkedin"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></img></a>
-
-<a href="https://blakesanie.com/twitter"><img src="https://img.shields.io/badge/Twitter-ccaaff?style=flat-square&logo=Twitter&logoColor=white" /></a>
-
-<a href="https://blakesanie.com/instagram"><img src="https://img.shields.io/badge/-Instagram-tan?style=flat-square&logo=Instagram&logoColor=white" /></a>
-
-<a href="https://blakesanie.com/"><img src="https://img.shields.io/badge/-Website-grey?style=flat-square&logo=GoogleChrome&logoColor=white" /></a>
-
-<a href="mailto:blake@sanie.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" /></a>
-
-<a href="https://paypal.me/blakesanie"><img src="https://img.shields.io/badge/-PayPal-lightblue?style=flat-square&logo=PayPal" /></a>
-
-<a href="https://blakesanie.com/blog"><img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white" /></a>
+	<a href="https://blakesanie.com/linkedin"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></img>
+	</a>
+	<a href="https://blakesanie.com/twitter"><img src="https://img.shields.io/badge/Twitter-ccaaff?style=flat-square&logo=Twitter&logoColor=white" /></a>
+	<a href="https://blakesanie.com/instagram"><img src="https://img.shields.io/badge/-Instagram-tan?style=flat-square&logo=Instagram&logoColor=white" /></a>
+	<a href="https://blakesanie.com/"><img src="https://img.shields.io/badge/-Website-grey?style=flat-square&logo=GoogleChrome&logoColor=white" /></a>
+	<a href="mailto:blake@sanie.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" /></a>
+	<a href="https://paypal.me/blakesanie"><img src="https://img.shields.io/badge/-PayPal-lightblue?style=flat-square&logo=PayPal" /></a>
+	<a href="https://blakesanie.com/blog"><img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white" /></a>
 </p>
 
 <h3 align="center">CS at <a href="https://en.wikipedia.org/wiki/Georgia_Tech" target="_blank">Georgia Tech</a> | Creator of <a href="https://investivision.com" target="_blank">Investivision</a> | Computing, Finance, and eCommerce | Artificial Intelligence | Scalability and Automation</h3>
