@@ -28,21 +28,26 @@
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
 
-<img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24"/>
 
-<img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24"/>
 
-<img src="https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=Java&logoColor=blue" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="24"/>
 
-<img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=C" />
 
-<img src="https://img.shields.io/badge/-Swift-pink?style=for-the-badge&logo=Swift" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="24"/>
 
-<img src="https://img.shields.io/badge/-R-navy?style=for-the-badge&logo=R" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24"/>
 
-<img src="https://img.shields.io/badge/-HTML-444444?style=for-the-badge&logo=HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="24"/>
 
-<img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="24"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="24"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="24"/>
+
+
 
 </div>
 
@@ -51,51 +56,80 @@
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
 
-<img src="https://img.shields.io/badge/-React.js-blue?style=for-the-badge&logo=React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="24"/>
 
-<img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=Next.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24"/>
 
-<img src="https://img.shields.io/badge/-PostgreSQL-lightblue?style=for-the-badge&logo=PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="24"/>
 
-<img src="https://img.shields.io/badge/-Docker-ddd?style=for-the-badge&logo=Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="24" />
 
-<img src="https://img.shields.io/badge/-Firebase-maroon?style=for-the-badge&logo=Firebase" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="24" />
 
-<img src="https://img.shields.io/badge/-AWS-orange?style=for-the-badge&logo=AmazonAWS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="24" />
 
-<img src="https://img.shields.io/badge/-Google%20Cloud-pink?style=for-the-badge&logo=GoogleCloud" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="24" />
 
-<img src="https://img.shields.io/badge/-Heroku-594FFF?style=for-the-badge&logo=Heroku" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" height="24" />
 
-<img src="https://img.shields.io/badge/-Numpy-yellow?style=for-the-badge&logo=Numpy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="24" />
 
-<img src="https://img.shields.io/badge/-Pandas-red?style=for-the-badge&logo=Pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="24" />
 
-<img src="https://img.shields.io/badge/-Tensorflow-dddddd?style=for-the-badge&logo=Tensorflow" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="24" />
 
-<img src="https://img.shields.io/badge/-Scikit%20Learn-004499?style=for-the-badge&logo=scikit-learn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="24" />
 
-<img src="https://img.shields.io/badge/-Express-red?style=for-the-badge&logo=Express" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="24" />
 
-<img src="https://img.shields.io/badge/-Selenium-black?style=for-the-badge&logo=Selenium" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="24" />
 
-<img src="https://img.shields.io/badge/-Stripe-B1CBFF?style=for-the-badge&logo=Stripe" />
 
-<img src="https://img.shields.io/badge/-Jupyter-dddddd?style=for-the-badge&logo=Jupyter" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="24" />
 
-<img src="https://img.shields.io/badge/-NPM-pink?style=for-the-badge&logo=NPM" />
 
-<img src="https://img.shields.io/badge/-Expo-3A49FF?style=for-the-badge&logo=Expo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg" height="24" />
 
-<img src="https://img.shields.io/badge/-jQuery-blue?style=for-the-badge&logo=JQuery" />
 
-<img src="https://img.shields.io/badge/-Xcode-dddddd?style=for-the-badge&logo=Xcode" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="24" />
 
-<img src="https://img.shields.io/badge/-App%20Store-dddddd?style=for-the-badge&logo=App%20Store" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="24" />
 
-<img src="https://img.shields.io/badge/-Chrome%20Extensions-aaccff?style=for-the-badge&logo=GoogleChrome&logoColor=red" />
 
-<img src="https://img.shields.io/badge/-JetBrains-black?style=for-the-badge&logo=Jetbrains" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="24" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="24" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="24" />
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="24" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="24" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="24" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="24"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="24"/>
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="24"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="24"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="24"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="24"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="24"/>
+
+
+
+
+
+
+
 
 </div>
 
@@ -103,13 +137,16 @@
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
 
-<img src="https://img.shields.io/badge/-Rust-orange?style=for-the-badge&logo=Rust" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="24"/>
 
-<img src="https://img.shields.io/badge/-Go-dddddd?style=for-the-badge&logo=Go" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="24"/>
 
-<img src="https://img.shields.io/badge/-Kubernetes-lightblue?style=for-the-badge&logo=Kubernetes" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="24"/>
 
-<img src="https://img.shields.io/badge/-Supabase-005500?style=for-the-badge&logo=Supabase" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="24"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="24"/>
+
 
 </div>
 
