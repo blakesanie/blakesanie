@@ -26,8 +26,8 @@
 
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-<h3 align="center">I work with</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24"/>
+<h3 align="center" style="display: inline;">I work with</h3>
+<img style="display: inline;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24"/>
 
