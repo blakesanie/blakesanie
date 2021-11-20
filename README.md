@@ -1,8 +1,9 @@
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center">
-<img src="https://blakesanie.com/optimized/images/wwdc_blake_w=384&amp;q=75.png" width="100px" style="display: inline;" />
-<p style="display: inline;">Hi, I'm <a href="https://blakesanie.com">Blake</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
-</p>
+<div align="center">
+<img src="https://blakesanie.com/optimized/images/wwdc_blake_w=384&amp;q=75.png" height="100px" align="center" />
 </div>
+
+<h1 align="center">Hi, I'm <a href="https://blakesanie.com">Blake</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
+</h1>
 
 
 
@@ -23,10 +24,9 @@
 
 ---
 
-<h3 align="center">I work with</h3>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-
+<h3 align="center">I work with</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24"/>
