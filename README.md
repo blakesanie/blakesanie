@@ -10,14 +10,14 @@
 
 
 <p align="center">
-	<a href="https://blakesanie.com/linkedin"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></img>
+	<a href="https://blakesanie.com/linkedin"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></img>
 	</a>
-	<a href="https://blakesanie.com/twitter"><img src="https://img.shields.io/badge/Twitter-ccaaff?style=flat-square&logo=Twitter&logoColor=white" /></a>
-	<a href="https://blakesanie.com/instagram"><img src="https://img.shields.io/badge/-Instagram-tan?style=flat-square&logo=Instagram&logoColor=white" /></a>
-	<a href="https://blakesanie.com/"><img src="https://img.shields.io/badge/-Website-grey?style=flat-square&logo=GoogleChrome&logoColor=white" /></a>
-	<a href="mailto:blake@sanie.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" /></a>
-	<a href="https://paypal.me/blakesanie"><img src="https://img.shields.io/badge/-PayPal-lightblue?style=flat-square&logo=PayPal" /></a>
-	<a href="https://blakesanie.com/blog"><img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white" /></a>
+	<a href="https://blakesanie.com/twitter"><img src="https://img.shields.io/badge/Twitter-ccaaff?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+	<a href="https://blakesanie.com/instagram"><img src="https://img.shields.io/badge/-Instagram-tan?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+	<a href="https://blakesanie.com/"><img src="https://img.shields.io/badge/-Website-grey?style=for-the-badge&logo=GoogleChrome&logoColor=white" /></a>
+	<a href="mailto:blake@sanie.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+	<a href="https://paypal.me/blakesanie"><img src="https://img.shields.io/badge/-PayPal-lightblue?style=for-the-badge&logo=PayPal" /></a>
+	<a href="https://blakesanie.com/blog"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white" /></a>
 </p>
 
 <h3 align="center">CS at <a href="https://en.wikipedia.org/wiki/Georgia_Tech" target="_blank">Georgia Tech</a> | Creator of <a href="https://investivision.com" target="_blank">Investivision</a> | Computing, Finance, and eCommerce | Artificial Intelligence | Scalability and Automation</h3>
@@ -28,21 +28,21 @@
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
 
-<img src="https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=Node.js" />
+<img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=Node.js" />
 
-<img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python" />
+<img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=Python" />
 
-<img src="https://img.shields.io/badge/-Java-orange?style=flat-square&logo=Java&logoColor=blue" />
+<img src="https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=Java&logoColor=blue" />
 
-<img src="https://img.shields.io/badge/-C-blue?style=flat-square&logo=C" />
+<img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=C" />
 
-<img src="https://img.shields.io/badge/-Swift-pink?style=flat-square&logo=Swift" />
+<img src="https://img.shields.io/badge/-Swift-pink?style=for-the-badge&logo=Swift" />
 
-<img src="https://img.shields.io/badge/-R-navy?style=flat-square&logo=R" />
+<img src="https://img.shields.io/badge/-R-navy?style=for-the-badge&logo=R" />
 
-<img src="https://img.shields.io/badge/-HTML-444444?style=flat-square&logo=HTML5" />
+<img src="https://img.shields.io/badge/-HTML-444444?style=for-the-badge&logo=HTML5" />
 
-<img src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=CSS3" />
+<img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3" />
 
 </div>
 
@@ -51,51 +51,51 @@
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
 
-<img src="https://img.shields.io/badge/-React.js-blue?style=flat-square&logo=React" />
+<img src="https://img.shields.io/badge/-React.js-blue?style=for-the-badge&logo=React" />
 
-<img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js" />
+<img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=Next.js" />
 
-<img src="https://img.shields.io/badge/-PostgreSQL-lightblue?style=flat-square&logo=PostgreSQL" />
+<img src="https://img.shields.io/badge/-PostgreSQL-lightblue?style=for-the-badge&logo=PostgreSQL" />
 
-<img src="https://img.shields.io/badge/-Docker-ddd?style=flat-square&logo=Docker" />
+<img src="https://img.shields.io/badge/-Docker-ddd?style=for-the-badge&logo=Docker" />
 
-<img src="https://img.shields.io/badge/-Firebase-maroon?style=flat-square&logo=Firebase" />
+<img src="https://img.shields.io/badge/-Firebase-maroon?style=for-the-badge&logo=Firebase" />
 
-<img src="https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=AmazonAWS" />
+<img src="https://img.shields.io/badge/-AWS-orange?style=for-the-badge&logo=AmazonAWS" />
 
-<img src="https://img.shields.io/badge/-Google%20Cloud-pink?style=flat-square&logo=GoogleCloud" />
+<img src="https://img.shields.io/badge/-Google%20Cloud-pink?style=for-the-badge&logo=GoogleCloud" />
 
-<img src="https://img.shields.io/badge/-Heroku-594FFF?style=flat-square&logo=Heroku" />
+<img src="https://img.shields.io/badge/-Heroku-594FFF?style=for-the-badge&logo=Heroku" />
 
-<img src="https://img.shields.io/badge/-Numpy-yellow?style=flat-square&logo=Numpy" />
+<img src="https://img.shields.io/badge/-Numpy-yellow?style=for-the-badge&logo=Numpy" />
 
-<img src="https://img.shields.io/badge/-Pandas-red?style=flat-square&logo=Pandas" />
+<img src="https://img.shields.io/badge/-Pandas-red?style=for-the-badge&logo=Pandas" />
 
-<img src="https://img.shields.io/badge/-Tensorflow-dddddd?style=flat-square&logo=Tensorflow" />
+<img src="https://img.shields.io/badge/-Tensorflow-dddddd?style=for-the-badge&logo=Tensorflow" />
 
-<img src="https://img.shields.io/badge/-Scikit%20Learn-004499?style=flat-square&logo=scikit-learn" />
+<img src="https://img.shields.io/badge/-Scikit%20Learn-004499?style=for-the-badge&logo=scikit-learn" />
 
-<img src="https://img.shields.io/badge/-Express-red?style=flat-square&logo=Express" />
+<img src="https://img.shields.io/badge/-Express-red?style=for-the-badge&logo=Express" />
 
-<img src="https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=Selenium" />
+<img src="https://img.shields.io/badge/-Selenium-black?style=for-the-badge&logo=Selenium" />
 
-<img src="https://img.shields.io/badge/-Stripe-B1CBFF?style=flat-square&logo=Stripe" />
+<img src="https://img.shields.io/badge/-Stripe-B1CBFF?style=for-the-badge&logo=Stripe" />
 
-<img src="https://img.shields.io/badge/-Jupyter-dddddd?style=flat-square&logo=Jupyter" />
+<img src="https://img.shields.io/badge/-Jupyter-dddddd?style=for-the-badge&logo=Jupyter" />
 
-<img src="https://img.shields.io/badge/-NPM-pink?style=flat-square&logo=NPM" />
+<img src="https://img.shields.io/badge/-NPM-pink?style=for-the-badge&logo=NPM" />
 
-<img src="https://img.shields.io/badge/-Expo-3A49FF?style=flat-square&logo=Expo" />
+<img src="https://img.shields.io/badge/-Expo-3A49FF?style=for-the-badge&logo=Expo" />
 
-<img src="https://img.shields.io/badge/-jQuery-blue?style=flat-square&logo=JQuery" />
+<img src="https://img.shields.io/badge/-jQuery-blue?style=for-the-badge&logo=JQuery" />
 
-<img src="https://img.shields.io/badge/-Xcode-dddddd?style=flat-square&logo=Xcode" />
+<img src="https://img.shields.io/badge/-Xcode-dddddd?style=for-the-badge&logo=Xcode" />
 
-<img src="https://img.shields.io/badge/-App%20Store-dddddd?style=flat-square&logo=App%20Store" />
+<img src="https://img.shields.io/badge/-App%20Store-dddddd?style=for-the-badge&logo=App%20Store" />
 
-<img src="https://img.shields.io/badge/-Chrome%20Extensions-aaccff?style=flat-square&logo=GoogleChrome&logoColor=red" />
+<img src="https://img.shields.io/badge/-Chrome%20Extensions-aaccff?style=for-the-badge&logo=GoogleChrome&logoColor=red" />
 
-<img src="https://img.shields.io/badge/-JetBrains-black?style=flat-square&logo=Jetbrains" />
+<img src="https://img.shields.io/badge/-JetBrains-black?style=for-the-badge&logo=Jetbrains" />
 
 </div>
 
@@ -103,13 +103,13 @@
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
 
-<img src="https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=Rust" />
+<img src="https://img.shields.io/badge/-Rust-orange?style=for-the-badge&logo=Rust" />
 
-<img src="https://img.shields.io/badge/-Go-dddddd?style=flat-square&logo=Go" />
+<img src="https://img.shields.io/badge/-Go-dddddd?style=for-the-badge&logo=Go" />
 
-<img src="https://img.shields.io/badge/-Kubernetes-lightblue?style=flat-square&logo=Kubernetes" />
+<img src="https://img.shields.io/badge/-Kubernetes-lightblue?style=for-the-badge&logo=Kubernetes" />
 
-<img src="https://img.shields.io/badge/-Supabase-005500?style=flat-square&logo=Supabase" />
+<img src="https://img.shields.io/badge/-Supabase-005500?style=for-the-badge&logo=Supabase" />
 
 </div>
 
