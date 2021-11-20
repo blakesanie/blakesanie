@@ -1,4 +1,4 @@
-<h1><img style="vertical-align: middle;" src="https://blakesanie.com/optimized/images/wwdc_blake_w=384&amp;q=75.png" width="100px" style="display: inline;" />Hi, I'm <a href="https://blakesanie.com">Blake</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
+<h1 align="center"><img style="vertical-align: middle; margin-right: 30px" src="https://blakesanie.com/optimized/images/wwdc_blake_w=384&amp;q=75.png" width="100px" style="display: inline;" />Hi, I'm <a href="https://blakesanie.com">Blake</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
 </h1>
 
 
