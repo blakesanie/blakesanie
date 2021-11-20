@@ -24,6 +24,10 @@
 
 ---
 
+<details>
+
+<summary>My favorite tools, technologies, and More</summary>
+
 <h3 align="center">I work with</h3>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
@@ -155,3 +159,5 @@
 
 
 <h3 align="center">to build ⚡💥🔥</h3>
+
+</details>
