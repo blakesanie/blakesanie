@@ -10,14 +10,14 @@
 
 
 <p align="center">
-	<a href="https://blakesanie.com/linkedin"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></img>
+	<a href="https://blakesanie.com/linkedin"><img style="border-radius: 6px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
 	</a>
-	<a href="https://blakesanie.com/twitter"><img src="https://img.shields.io/badge/Twitter-ccaaff?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-	<a href="https://blakesanie.com/instagram"><img src="https://img.shields.io/badge/-Instagram-tan?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-	<a href="https://blakesanie.com/"><img src="https://img.shields.io/badge/-Website-grey?style=for-the-badge&logo=GoogleChrome&logoColor=white" /></a>
-	<a href="mailto:blake@sanie.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-	<a href="https://paypal.me/blakesanie"><img src="https://img.shields.io/badge/-PayPal-lightblue?style=for-the-badge&logo=PayPal" /></a>
-	<a href="https://blakesanie.com/blog"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white" /></a>
+	<a href="https://blakesanie.com/twitter"><img style="border-radius: 6px;" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+	<a href="https://blakesanie.com/instagram"><img style="border-radius: 6px;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+	<a href="https://blakesanie.com/"><img style="border-radius: 6px;" src="https://img.shields.io/website?down_color=Red&down_message=Offline&logo=vercel&style=for-the-badge&up_color=Green&up_message=Online&url=https%3A%2F%2Fblakesanie.com" /></a>
+	<a href="mailto:blake@sanie.com"><img style="border-radius: 6px;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+	<a href="https://paypal.me/blakesanie"><img style="border-radius: 6px;" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+	<a href="https://blakesanie.com/blog"><img style="border-radius: 6px;" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 <h3 align="center">CS at <a href="https://en.wikipedia.org/wiki/Georgia_Tech" target="_blank">Georgia Tech</a> | Creator of <a href="https://investivision.com" target="_blank">Investivision</a> | Computing, Finance, and eCommerce | Artificial Intelligence | Scalability and Automation</h3>
@@ -26,7 +26,7 @@
 
 <details>
 
-<summary>My favorite tools, technologies, and More</summary>
+<summary>My favorite tools, technologies, and more 🔎</summary>
 
 <h3 align="center">I work with</h3>
 
