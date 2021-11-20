@@ -2,7 +2,6 @@
 <img src="https://blakesanie.com/optimized/images/wwdc_blake_w=384&amp;q=75.png" width="100px">
 </div>
 
-<img srcset="/optimized/images/wwdc_blake_w=256&amp;q=75.png 1x, /optimized/images/wwdc_blake_w=384&amp;q=75.png 2x" src="/optimized/images/wwdc_blake_w=384&amp;q=75.png" decoding="async" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%">
 
 <h1 align="center">Hi, I'm <a href="https://blakesanie.com">Blake</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
 </h1>
@@ -11,19 +10,19 @@
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
 
-<a href="https://blakesanie.com/linkedin"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></img></a>
+<a href="https://blakesanie.com/linkedin" style="display: inline;"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></img></a>
 
-<a href="https://blakesanie.com/twitter"><img src="https://img.shields.io/badge/Twitter-ccaaff?style=flat-square&logo=Twitter&logoColor=white" /></a>
+<a href="https://blakesanie.com/twitter" style="display: inline;"><img src="https://img.shields.io/badge/Twitter-ccaaff?style=flat-square&logo=Twitter&logoColor=white" /></a>
 
-<a href="https://blakesanie.com/instagram"><img src="https://img.shields.io/badge/-Instagram-tan?style=flat-square&logo=Instagram&logoColor=white" /></a>
+<a href="https://blakesanie.com/instagram" style="display: inline;"><img src="https://img.shields.io/badge/-Instagram-tan?style=flat-square&logo=Instagram&logoColor=white" /></a>
 
-<a href="https://blakesanie.com/"><img src="https://img.shields.io/badge/-Website-grey?style=flat-square&logo=GoogleChrome&logoColor=white" /></a>
+<a href="https://blakesanie.com/" style="display: inline;"><img src="https://img.shields.io/badge/-Website-grey?style=flat-square&logo=GoogleChrome&logoColor=white" /></a>
 
-<a href="mailto:blake@sanie.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" /></a>
+<a href="mailto:blake@sanie.com" style="display: inline;"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" /></a>
 
-<a href="https://paypal.me/blakesanie"><img src="https://img.shields.io/badge/-PayPal-lightblue?style=flat-square&logo=PayPal" /></a>
+<a href="https://paypal.me/blakesanie" style="display: inline;"><img src="https://img.shields.io/badge/-PayPal-lightblue?style=flat-square&logo=PayPal" /></a>
 
-<a href="https://blakesanie.com/blog"><img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white" /></a>
+<a href="https://blakesanie.com/blog" style="display: inline;"><img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white" /></a>
 </div>
 
 <h3 align="center">CS at <a href="https://en.wikipedia.org/wiki/Georgia_Tech" target="_blank">Georgia Tech</a> | Creator of <a href="https://investivision.com" target="_blank">Investivision</a> | Computing, Finance, and eCommerce | Artificial Intelligence | Scalability and Automation</h3>
