@@ -1,6 +1,6 @@
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center">
-<img src="https://blakesanie.com/optimized/images/wwdc_blake_w=384&amp;q=75.png" width="100px" style="margin: 10px; display: inline;" />
-<h1 style="margin: 10px; display: inline;">Hi, I'm <a href="https://blakesanie.com">Blake</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
+<img src="https://blakesanie.com/optimized/images/wwdc_blake_w=384&amp;q=75.png" width="100px" style="display: inline;" />
+<h1 style="display: inline;">Hi, I'm <a href="https://blakesanie.com">Blake</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
 </h1>
 </div>
 
