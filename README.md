@@ -27,7 +27,7 @@
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
 <h3 align="center">I work with
-<img style="display: inline;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24"/>
+<img style="vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24"/>
 
