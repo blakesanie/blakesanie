@@ -1,7 +1,11 @@
 import tweepy
 import os
-from dotenv import load_dotenv
-load_dotenv()
+
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
 
 client = tweepy.Client(
     bearer_token=os.getenv('TWITTER_BEARER_TOKEN'))
