@@ -22,6 +22,8 @@ endMarker = '<!--End Medium-->'
 content = content[:content.index(
     startMarker) + len(startMarker)] + html + content[content.index(endMarker):]
 
+print('new content is', content)
+
 readme = open("./README.md", 'w')
 readme.write(content)
 readme.close()
