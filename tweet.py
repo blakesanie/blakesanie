@@ -7,8 +7,12 @@ try:
 except ImportError:
     pass
 
+bearer = os.getenv('TWITTER_BEARER_TOKEN')
+
+print('bearer is', bearer)
+
 client = tweepy.Client(
-    bearer_token=os.getenv('TWITTER_BEARER_TOKEN'))
+    bearer_token=bearer)
 
 tweets = client.get_users_tweets(
     id=1440382840273731598, tweet_fields=['created_at'], max_results=5)
