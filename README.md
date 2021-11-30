@@ -173,4 +173,9 @@
 
 </details>
 
+## Latest on Medium
+
+<!--Start Medium-->
+<!--End Medium-->
+
 ![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=BlakeSanie&layout=wide)
