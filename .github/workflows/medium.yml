@@ -23,5 +23,5 @@ jobs:
         run: |
           git config --global user.name 'Blake Sanie'
           git config --global user.email 'blakesanie@users.noreply.github.com'
-          git commit -am "Automated update"
-          git push
+          git commit -am "Automated update" || true
+          git push || true
