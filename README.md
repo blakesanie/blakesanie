@@ -161,3 +161,16 @@
 <h3 align="center">to build ⚡💥🔥</h3>
 
 </details>
+
+<details>
+
+<summary>Github Stats 🏆</summary>
+
+![Blake's GitHub stats](https://github-readme-stats.vercel.app/api?username=blakesanie&count_private=true&show_icons=true&hide=contribs,prs,issues)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakesanie&layout=compact)
+
+
+</details>
+
+![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=BlakeSanie&layout=wide)
