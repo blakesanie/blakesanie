@@ -23,7 +23,7 @@ for tweet in tweets.data:
     text = tweet.text
     date = tweet.created_at
     link = 'https://twitter.com/BlakeSanie/status/' + str(tweet.id)
-    html += f"<li><a href='{link} target='_blank'>{text} - {date.strftime('%m/%d/%Y')}</a></li>"
+    html += f"<li><a href='{link}' target='_blank'>{text} - {date.strftime('%m/%d/%Y')}</a></li>"
 
 html = '<ul>' + html + '</ul>'
 
