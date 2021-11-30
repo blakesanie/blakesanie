@@ -175,7 +175,6 @@
 
 ## Latest on Medium
 
-<!--Start Medium-->
-<!--End Medium-->
+<!--Start Medium--><ul><li><a href='https://medium.com/swlh/how-to-easily-verbalize-any-c-variable-type-declaration-2c705166557c?source=rss-8d1a76d48b32------2 target='_blank'>How to Easily Verbalize Any C Variable Type Declaration</a></li><li><a href='https://medium.com/swlh/theres-no-harm-in-slowly-migrating-to-react-js-start-asap-b36bddccc60e?source=rss-8d1a76d48b32------2 target='_blank'>There’s no Harm in Slowly Migrating to React.js (Start ASAP)</a></li><li><a href='https://codeburst.io/deconstructing-the-iconic-apple-watch-bubble-ui-aba68a405689?source=rss-8d1a76d48b32------2 target='_blank'>Deconstructing the  Iconic Apple Watch Bubble UI</a></li><li><a href='https://codeburst.io/the-o-n-sorting-algorithm-of-your-dreams-d2dd31b06848?source=rss-8d1a76d48b32------2 target='_blank'>The O(n) Sorting Algorithm of Your Dreams</a></li><li><a href='https://towardsdatascience.com/computing-pi-in-only-3-lines-95c26276f4c9?source=rss-8d1a76d48b32------2 target='_blank'>Computing PI in Only 3 Lines</a></li></ul><!--End Medium-->
 
 ![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=BlakeSanie&layout=wide)
