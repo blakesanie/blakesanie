@@ -12,7 +12,7 @@ for article in articles:
 
 html = '<ul>' + html + '</ul>'
 
-readme = open("readme.md")
+readme = open("./README.md")
 content = readme.read()
 readme.close()
 
@@ -22,6 +22,6 @@ endMarker = '<!--End Medium-->'
 content = content[:content.index(
     startMarker) + len(startMarker)] + html + content[content.index(endMarker):]
 
-readme = open("readme.md", 'w')
+readme = open("./README.md", 'w')
 readme.write(content)
 readme.close()
