@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://blakesanie.com/optimized/images/wwdc_blake_w=384&amp;q=75.png" height="100px" align="center" />
+<img src="https://blakesanie.com/optimized/images/wwdc_blake_w=384&q=75.png" height="100px" align="center" />
 </div>
 
 <h1 align="center">Hi, I'm <a href="https://blakesanie.com">Blake</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
@@ -176,3 +176,7 @@
 ## Latest on Medium
 
 <!--Start Medium--><ul><li><a href='https://codeburst.io/solve-any-divide-conquer-problem-with-this-trick-a187810cbd99?source=rss-8d1a76d48b32------2 target='_blank'>Solve Any Divide & Conquer Problem With This Trick - 02/11/2021</a></li><li><a href='https://codeburst.io/containerization-isnt-going-anywhere-81df3ae080cd?source=rss-8d1a76d48b32------2 target='_blank'>Containerization Isn’t Going Anywhere. - 01/15/2021</a></li><li><a href='https://blakesanie.medium.com/stop-building-new-projects-youll-never-finish-db80ae60c766?source=rss-8d1a76d48b32------2 target='_blank'>Stop Building New Projects You’ll Never Finish - 01/10/2021</a></li><li><a href='https://betterprogramming.pub/coding-interview-question-convert-roman-numerals-to-decimals-868b2694f497?source=rss-8d1a76d48b32------2 target='_blank'>Coding Interview Question: Convert Roman Numerals to Decimals - 01/04/2021</a></li><li><a href='https://medium.com/macoclock/automate-mac-workflows-with-quick-actions-on-touch-bar-61932ac1b633?source=rss-8d1a76d48b32------2 target='_blank'>Automate Mac Workflows with Quick Actions on Touch Bar - 12/30/2020</a></li></ul><!--End Medium-->
+
+## Latest on Twitter
+
+<!--Start Twitter--><ul><li><a href='https://twitter.com/BlakeSanie/status/1464801015190863883 target='_blank'>Who tf gave Yoko the mic - 11/28/2021</a></li><li><a href='https://twitter.com/BlakeSanie/status/1464800191802867715 target='_blank'>In "Get Back", all 4 Beatles fiddle around with the roots of "Gimme Some Truth" and "All Things Must Pass" - later becoming Lennon and Harrison titles after the split. Anyone else catch this? - 11/28/2021</a></li><li><a href='https://twitter.com/BlakeSanie/status/1464798973672050688 target='_blank'>Amazing how Peter Jackson restored 8h of grayscale footage for "Get Back" on @disneyplus - 11/28/2021</a></li><li><a href='https://twitter.com/MKBHD/status/1463927529547444224 target='_blank'>@MKBHD: Happy Thanksgiving, y’all! Good luck with family tech support - 11/25/2021</a></li><li><a href='https://twitter.com/BlakeSanie/status/1462902782558568450 target='_blank'>Nvidia GauGAN2 AI turns sentences into realistic photos... in real-time too 👀 - 11/22/2021</a></li></ul><!--End Twitter-->
