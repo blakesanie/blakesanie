@@ -179,9 +179,19 @@
 
 ## Latest on Twitter
 
-<!--Start Twitter--><ul><li><a href='https://twitter.com/BlakeSanie/status/1466515362934001666' target='_blank'>A few takeaways from Spotify Wrapped:
+<!--Start Twitter--><ul>
+
+<li><a href='https://twitter.com/BlakeSanie/status/1466515362934001666' target='_blank'>A few takeaways from Spotify Wrapped:
 
 1. Can’t deny that I love the beatles
 2. I listen to Queen more than I actually want to
 3. Fleetwood Mac instrumentals are king
-4. Where’s the White Album? https://t.co/y4hJyAVUmb - 12/02/2021</a></li><li><a href='https://twitter.com/BlakeSanie/status/1465897678735351811' target='_blank'>You don’t know Python until you know Numpy. No for loops allowed! 🐍 - 12/01/2021</a></li><li><a href='https://twitter.com/BlakeSanie/status/1465111285146603521' target='_blank'>@G0ogiee Glad I wasn't the only one to notice this - 11/29/2021</a></li><li><a href='https://twitter.com/BlakeSanie/status/1464801015190863883' target='_blank'>Who tf gave Yoko the mic - 11/28/2021</a></li><li><a href='https://twitter.com/BlakeSanie/status/1464800191802867715' target='_blank'>In "Get Back", all 4 Beatles fiddle around with the roots of "Gimme Some Truth" and "All Things Must Pass" - later becoming Lennon and Harrison titles after the split. Anyone else catch this? - 11/28/2021</a></li></ul><!--End Twitter-->
+4. Where’s the White Album? https://t.co/y4hJyAVUmb - 12/02/2021</a></li>
+<li><a href='https://twitter.com/BlakeSanie/status/1465897678735351811' target='_blank'>You don’t know Python until you know Numpy. No for loops allowed! 🐍 - 12/01/2021</a></li>
+<li><a href='https://twitter.com/BlakeSanie/status/1465111285146603521' target='_blank'>@G0ogiee Glad I wasn't the only one to notice this - 11/29/2021</a></li>
+<li><a href='https://twitter.com/BlakeSanie/status/1464801015190863883' target='_blank'>Who tf gave Yoko the mic - 11/28/2021</a></li>
+<li><a href='https://twitter.com/BlakeSanie/status/1464800191802867715' target='_blank'>In "Get Back", all 4 Beatles fiddle around with the roots of "Gimme Some Truth" and "All Things Must Pass" - later becoming Lennon and Harrison titles after the split. Anyone else catch this? - 11/28/2021</a></li>
+
+</ul>
+
+<!--End Twitter-->
