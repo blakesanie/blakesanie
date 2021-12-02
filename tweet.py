@@ -1,5 +1,6 @@
 import tweepy
 import os
+import re
 
 try:
     from dotenv import load_dotenv
@@ -19,8 +20,13 @@ tweets = client.get_users_tweets(
 
 html = ""
 
+removeLinksPattern = re.compile(
+    'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+')
+
 for tweet in tweets.data:
+
     text = ' '.join(tweet.text.split('\n'))
+    text = removeLinksPattern.sub('', text)
     date = tweet.created_at.strftime('%m/%d/%Y')
     link = 'https://twitter.com/BlakeSanie/status/' + str(tweet.id)
     html += f"""<li><a href='{link}' target='_blank'>{text} - {date}</a></li>
