@@ -20,7 +20,7 @@ tweets = client.get_users_tweets(
 html = ""
 
 for tweet in tweets.data:
-    text = tweet.text
+    text = ' '.join(tweet.text.split('\n'))
     date = tweet.created_at.strftime('%m/%d/%Y')
     link = 'https://twitter.com/BlakeSanie/status/' + str(tweet.id)
     html += f"""<li><a href='{link}' target='_blank'>{text} - {date}</a></li>
