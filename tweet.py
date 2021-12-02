@@ -21,11 +21,17 @@ html = ""
 
 for tweet in tweets.data:
     text = tweet.text
-    date = tweet.created_at
+    date = tweet.created_at.strftime('%m/%d/%Y')
     link = 'https://twitter.com/BlakeSanie/status/' + str(tweet.id)
-    html += f"<li><a href='{link}' target='_blank'>{text} - {date.strftime('%m/%d/%Y')}</a></li>"
+    html += f"""<li><a href='{link}' target='_blank'>{text} - {date}</a></li>
+"""
 
-html = '<ul>' + html + '</ul>'
+html = f"""<ul>
+
+{html}
+</ul>
+
+"""
 
 readme = open("./README.md")
 content = readme.read()
