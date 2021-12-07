@@ -181,11 +181,11 @@
 
 <!--Start Twitter--><ul>
 
+<li><a href='https://twitter.com/BlakeSanie/status/1468328287223099393' target='_blank'>Was working on a @github action when all of a sudden, it failed. This time, it wasn’t my fault! Thanks @awscloud for the 503! The North Virginia region is still down 😬 #AWSOutage #AmazonDown - 12/07/2021</a></li>
+<li><a href='https://twitter.com/BlakeSanie/status/1468303602083155974' target='_blank'>It’s always a fun time when @aws East clusters are down. @GeorgiaTech’s SSO serves a 502 and I can’t access my assignments! Yay! - 12/07/2021</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1467634515451559939' target='_blank'>RT @rasbt: Using machine learning for every problem: it usually kinda works - 12/05/2021</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1467406182822420482' target='_blank'>RT @docmilanfar: The prior in your brain is wrong. This isn’t fried chicken  - 12/05/2021</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1466515362934001666' target='_blank'>A few takeaways from Spotify Wrapped:  1. Can’t deny that I love the beatles 2. I listen to Queen more than I actually want to 3. Fleetwood Mac instrumentals are king 4. Where’s the White Album?  - 12/02/2021</a></li>
-<li><a href='https://twitter.com/BlakeSanie/status/1465897678735351811' target='_blank'>You don’t know Python until you know Numpy. No for loops allowed! 🐍 - 12/01/2021</a></li>
-<li><a href='https://twitter.com/BlakeSanie/status/1465111285146603521' target='_blank'>@G0ogiee Glad I wasn't the only one to notice this - 11/29/2021</a></li>
 
 </ul>
 
