@@ -181,11 +181,11 @@
 
 <!--Start Twitter--><ul>
 
+<li><a href='https://twitter.com/BlakeSanie/status/1470492021689397257' target='_blank'>During my database systems final demo, my TA suggested using MD5 for password hashing instead of SHA256… I definitely won’t let them design my database! #securityfirst #mysqlsux - 12/13/2021</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1470082159968989184' target='_blank'>@BrockHerion I’m plagued with merge conflicts  - 12/12/2021</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1468328287223099393' target='_blank'>Was working on a @github action when all of a sudden, it failed. This time, it wasn’t my fault! Thanks @awscloud for the 503! The North Virginia region is still down 😬 #AWSOutage #AmazonDown - 12/07/2021</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1468303602083155974' target='_blank'>It’s always a fun time when @aws East clusters are down. @GeorgiaTech’s SSO serves a 502 and I can’t access my assignments! Yay! - 12/07/2021</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1467634515451559939' target='_blank'>RT @rasbt: Using machine learning for every problem: it usually kinda works - 12/05/2021</a></li>
-<li><a href='https://twitter.com/BlakeSanie/status/1467406182822420482' target='_blank'>RT @docmilanfar: The prior in your brain is wrong. This isn’t fried chicken  - 12/05/2021</a></li>
 
 </ul>
 
