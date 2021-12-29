@@ -181,11 +181,11 @@
 
 <!--Start Twitter--><ul>
 
+<li><a href='https://twitter.com/BlakeSanie/status/1475887663513161731' target='_blank'>I’d give it to Next.js, Tailwind.css, and MaterialUI  - 12/28/2021</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1475604146149462017' target='_blank'>Sure, by using Wix  - 12/27/2021</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1475182836118265857' target='_blank'>@NetworkChuck Ambition, passion, and hard work - 12/26/2021</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1473800633467559937' target='_blank'>Don’t get me started  - 12/22/2021</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1472774405533044736' target='_blank'>RT @elonmusk: Should be taught to all at a young age  - 12/20/2021</a></li>
-<li><a href='https://twitter.com/BlakeSanie/status/1472621649006456833' target='_blank'>@palashv2 ChromeOS 🤡 - 12/19/2021</a></li>
 
 </ul>
 
