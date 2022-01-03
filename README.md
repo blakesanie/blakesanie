@@ -181,11 +181,11 @@
 
 <!--Start Twitter--><ul>
 
+<li><a href='https://twitter.com/BlakeSanie/status/1477751062618525696' target='_blank'>@dankamel Thanks! I first built it using particles.js ( and then migrated to tsParticles ( when I rebuilt my site with Next.js - 01/02/2022</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1476190748655505415' target='_blank'>@eddiejaoude 10, or “10”… same thing - 12/29/2021</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1475887663513161731' target='_blank'>I’d give it to Next.js, Tailwind.css, and MaterialUI  - 12/28/2021</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1475604146149462017' target='_blank'>Sure, by using Wix  - 12/27/2021</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1475182836118265857' target='_blank'>@NetworkChuck Ambition, passion, and hard work - 12/26/2021</a></li>
-<li><a href='https://twitter.com/BlakeSanie/status/1473800633467559937' target='_blank'>Don’t get me started  - 12/22/2021</a></li>
 
 </ul>
 
