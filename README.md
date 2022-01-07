@@ -181,11 +181,11 @@
 
 <!--Start Twitter--><ul>
 
+<li><a href='https://twitter.com/BlakeSanie/status/1479314849528090625' target='_blank'>That was me in the beginning. Trust me, take the leap of faith  - 01/07/2022</a></li>
+<li><a href='https://twitter.com/BlakeSanie/status/1479269546728902657' target='_blank'>Algebra Fact: the product of two primes is also a prime 🥸  - 01/07/2022</a></li>
+<li><a href='https://twitter.com/BlakeSanie/status/1479259251935629312' target='_blank'>@dinomitron Git Rebase is the most powerful command known to man - 01/07/2022</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1479220348654690308' target='_blank'>@madsbrodt Go with flexbox - this allows you to continually maintain a responsive layout as component complexity grows - 01/06/2022</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1477751062618525696' target='_blank'>@dankamel Thanks! I first built it using particles.js ( and then migrated to tsParticles ( when I rebuilt my site with Next.js - 01/02/2022</a></li>
-<li><a href='https://twitter.com/BlakeSanie/status/1476190748655505415' target='_blank'>@eddiejaoude 10, or “10”… same thing - 12/29/2021</a></li>
-<li><a href='https://twitter.com/BlakeSanie/status/1475887663513161731' target='_blank'>I’d give it to Next.js, Tailwind.css, and MaterialUI  - 12/28/2021</a></li>
-<li><a href='https://twitter.com/BlakeSanie/status/1475604146149462017' target='_blank'>Sure, by using Wix  - 12/27/2021</a></li>
 
 </ul>
 
