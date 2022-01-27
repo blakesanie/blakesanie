@@ -170,8 +170,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakesanie&layout=compact)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </details>
+
+## Currently Listening to 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=blake_sanie&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ## Latest on Medium
 
