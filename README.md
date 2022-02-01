@@ -171,6 +171,84 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakesanie&layout=compact)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2041%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-133%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 13 Contributions in the Year 2022
+ > 
+> 📦 1.9 MB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 26 Public Repositories 
+ > 
+> 🔑 10 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    18 commits     █████░░░░░░░░░░░░░░░░░░░░   22.5% 
+🌆 Daytime    22 commits     ███████░░░░░░░░░░░░░░░░░░   27.5% 
+🌃 Evening    32 commits     ██████████░░░░░░░░░░░░░░░   40.0% 
+🌙 Night      8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       15 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+Tuesday      19 commits     ██████░░░░░░░░░░░░░░░░░░░   23.75% 
+Wednesday    9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.25% 
+Thursday     7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.75% 
+Friday       11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.75% 
+Saturday     7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.75% 
+Sunday       12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+JavaScript               2 hrs 41 mins       ████████████████████░░░░░   80.63% 
+CSS                      38 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.37% 
+Jupyter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+🔥 Editors: 
+VS Code                  3 hrs 19 mins       █████████████████████████   100.0% 
+PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+💻 Operating System: 
+Mac                      3 hrs 19 mins       █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               20 repos            ████████████░░░░░░░░░░░░░   47.62% 
+Python                   11 repos            ██████░░░░░░░░░░░░░░░░░░░   26.19% 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
+Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
+Swift                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/blakesanie/blakesanie/master/charts/bar_graph.png) 
+
+
+ Last Updated on 01/02/2022 00:57:05 UTC
 <!--END_SECTION:waka-->
 
 </details>
