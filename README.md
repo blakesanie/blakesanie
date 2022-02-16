@@ -266,11 +266,11 @@ Swift                    3 repos             █░░░░░░░░░░�
 
 <!--Start Twitter--><ul>
 
+<li><a href='https://twitter.com/BlakeSanie/status/1493811040802512896' target='_blank'>@iamtruptisharma 👀 - 02/16/2022</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1491832378934714386' target='_blank'>@BendikMatej 👊 - 02/10/2022</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1490728430979198979' target='_blank'>When @3blue1brown touches on ML, the day is bright. A true treat for you wordle lovers  - 02/07/2022</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1486418192310292481' target='_blank'>The Book of Boba Fett, to be clear, is no longer about Boba Fett #BookofBobaFett #ThisIsTheWay - 01/26/2022</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1480738071616184321' target='_blank'>RT @supabase: Invest in Birbs  - 01/11/2022</a></li>
-<li><a href='https://twitter.com/BlakeSanie/status/1479670584803921920' target='_blank'>RT @mark_riedl: I have to programming with threads is dangerous say: - 01/08/2022</a></li>
 
 </ul>
 
