@@ -173,7 +173,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-133%20Thousand%20lines%20of%20code-blue)
 
@@ -218,18 +218,17 @@ Sunday       15 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Jupyter                  8 hrs 57 mins       ████████████████░░░░░░░░░   66.37% 
-Python                   4 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   32.88% 
+Jupyter                  8 hrs 54 mins       ████████████████░░░░░░░░░   66.25% 
+Python                   4 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   33.01% 
 Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39% 
-Shell Script             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25% 
+Shell Script             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26% 
 CSV/TSV                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🔥 Editors: 
-PyCharm                  13 hrs 29 mins      █████████████████████████   100.0% 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+PyCharm                  13 hrs 26 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      13 hrs 29 mins      █████████████████████████   100.0%
+Mac                      13 hrs 26 mins      █████████████████████████   100.0%
 
 ```
 
@@ -250,7 +249,7 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/blakesanie/blakesanie/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/03/2022 06:28:53 UTC
+ Last Updated on 23/03/2022 10:25:48 UTC
 <!--END_SECTION:waka-->
 
 </details>
