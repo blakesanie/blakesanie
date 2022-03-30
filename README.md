@@ -171,7 +171,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakesanie&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-183%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -250,7 +250,7 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/blakesanie/blakesanie/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/03/2022 14:22:58 UTC
+ Last Updated on 30/03/2022 20:24:30 UTC
 <!--END_SECTION:waka-->
 
 </details>
