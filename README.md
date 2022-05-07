@@ -264,11 +264,11 @@ Swift                    3 repos             █░░░░░░░░░░�
 
 <!--Start Twitter--><ul>
 
+<li><a href='https://twitter.com/BlakeSanie/status/1522741747733913604' target='_blank'>@SavvasStephnds background-color: 50px !important; - 05/07/2022</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1522235973156970500' target='_blank'>Best feature of GitHub: Star Wars themed 404 page  - 05/05/2022</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1512200025262239748' target='_blank'>@supabase I wasn’t satisfied with online photography portfolio generators, so I took on the challenge myself 🤷🏻‍♂️ - 04/07/2022</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1512129047920267271' target='_blank'>@NanouuSymeon Or better yet, use your situation as a growth opportunity and work to overcome your stressors - 04/07/2022</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1510821819904774154' target='_blank'>So much pain migrating from Chrome Ext. Manifest v2 to v3, but now I know how @webpack works! - 04/04/2022</a></li>
-<li><a href='https://twitter.com/BlakeSanie/status/1504672614769385474' target='_blank'>Done deal: I’m using torch over tf everytime #ml - 03/18/2022</a></li>
 
 </ul>
 
