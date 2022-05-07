@@ -171,6 +171,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakesanie&layout=compact)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-224%20hrs%2047%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-134%20Thousand%20lines%20of%20code-blue)
@@ -216,15 +218,15 @@ Sunday       16 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               3 hrs 41 mins       ████████████████░░░░░░░░░   64.96% 
-CSS                      1 hr 59 mins        ████████░░░░░░░░░░░░░░░░░   34.97% 
+JavaScript               4 hrs               ████████████████░░░░░░░░░   65.29% 
+CSS                      2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   34.64% 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 🔥 Editors: 
-VS Code                  5 hrs 41 mins       █████████████████████████   100.0%
+VS Code                  6 hrs 7 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      5 hrs 41 mins       █████████████████████████   100.0%
+Mac                      6 hrs 7 mins        █████████████████████████   100.0%
 
 ```
 
@@ -245,7 +247,7 @@ Swift                    3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/blakesanie/blakesanie/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/05/2022 04:29:30 UTC
+ Last Updated on 07/05/2022 06:29:39 UTC
 <!--END_SECTION:waka-->
 
 </details>
