@@ -263,11 +263,11 @@ Swift                    3 repos             █░░░░░░░░░░�
 
 <!--Start Twitter--><ul>
 
+<li><a href='https://twitter.com/BlakeSanie/status/1524403113586790402' target='_blank'>@doanaminh I think a few people git it - 05/11/2022</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1524165007977717760' target='_blank'>@leewarrickjr @fireship_dev Wait till you hear about useLayoutEffect() 🤩 - 05/10/2022</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1522741747733913604' target='_blank'>@SavvasStephnds background-color: 50px !important; - 05/07/2022</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1522235973156970500' target='_blank'>Best feature of GitHub: Star Wars themed 404 page  - 05/05/2022</a></li>
 <li><a href='https://twitter.com/BlakeSanie/status/1512200025262239748' target='_blank'>@supabase I wasn’t satisfied with online photography portfolio generators, so I took on the challenge myself 🤷🏻‍♂️ - 04/07/2022</a></li>
-<li><a href='https://twitter.com/BlakeSanie/status/1512129047920267271' target='_blank'>@NanouuSymeon Or better yet, use your situation as a growth opportunity and work to overcome your stressors - 04/07/2022</a></li>
 
 </ul>
 
