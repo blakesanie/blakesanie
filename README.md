@@ -171,7 +171,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakesanie&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-268%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-269%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -179,7 +179,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 42 Contributions in the Year 2022
+> 🏆 41 Contributions in the Year 2022
  > 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
@@ -236,11 +236,11 @@ Mac                      27 hrs 26 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               19 repos            ██████████░░░░░░░░░░░░░░░   43.18% 
-Python                   11 repos            ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-HTML                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-Jupyter Notebook         5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
-Swift                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.82%
+JavaScript               19 repos            ██████████░░░░░░░░░░░░░░░   42.22% 
+Python                   12 repos            ██████░░░░░░░░░░░░░░░░░░░   26.67% 
+HTML                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Jupyter Notebook         5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Swift                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
 
 ```
 
@@ -250,7 +250,7 @@ Swift                    3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/blakesanie/blakesanie/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/05/2022 14:24:08 UTC
+ Last Updated on 29/05/2022 16:33:10 UTC
 <!--END_SECTION:waka-->
 
 </details>
