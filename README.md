@@ -171,9 +171,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakesanie&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-277%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-134%20Thousand%20lines%20of%20code-blue)
 
@@ -218,18 +218,18 @@ Sunday       18 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   19 hrs 18 mins      █████████████████░░░░░░░░   70.34% 
-JavaScript               5 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.61% 
-YAML                     51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12% 
-CSS                      46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.82% 
-HTML                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.71%
+Python                   29 hrs 27 mins      ███████████████████░░░░░░   78.26% 
+JavaScript               5 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.3% 
+YAML                     51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.28% 
+CSS                      46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.06% 
+HTML                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25%
 
 🔥 Editors: 
-VS Code                  21 hrs 56 mins      ████████████████████░░░░░   79.97% 
-PyCharm                  5 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.03%
+VS Code                  21 hrs 56 mins      ██████████████░░░░░░░░░░░   58.32% 
+PyCharm                  15 hrs 41 mins      ██████████░░░░░░░░░░░░░░░   41.68%
 
 💻 Operating System: 
-Mac                      27 hrs 26 mins      █████████████████████████   100.0%
+Mac                      37 hrs 37 mins      █████████████████████████   100.0%
 
 ```
 
@@ -250,7 +250,7 @@ Swift                    3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/blakesanie/blakesanie/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/05/2022 04:46:19 UTC
+ Last Updated on 30/05/2022 06:34:31 UTC
 <!--END_SECTION:waka-->
 
 </details>
