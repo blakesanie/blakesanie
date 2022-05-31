@@ -267,11 +267,11 @@ Swift                    3 repos             █░░░░░░░░░░�
 
 <!--Start Twitter--><ul>
 
-<li><a href='https://twitter.com/BlakeSanie/status/1531132886597836800' target='_blank'>Now for @NBA ! Here's the graphical recap of the @celtics game 7 win over the @MiamiHEAT this evening. The Heat got within distance a few times, but never capitalized. Next up, the @warriors on Thursday!  - 05/30/2022</a></li>
-<li><a href='https://twitter.com/BlakeSanie/status/1531069727035904000' target='_blank'>Graphical  @mlb recap of today's @SFGiantsFans at @Reds matchup. The Reds made 3 pitching changes before blowing the lead in T8!  - 05/30/2022</a></li>
-<li><a href='https://twitter.com/BlakeSanie/status/1530787717260247040' target='_blank'>Been working on a @MLB score analysis project. Here's a graphic recap of the @Nationals win over the @Rockies today! ML soon, hopefully  - 05/29/2022</a></li>
-<li><a href='https://twitter.com/BlakeSanie/status/1529839978028539904' target='_blank'>@GTBaseball Is there a link to live box score? - 05/26/2022</a></li>
-<li><a href='https://twitter.com/BlakeSanie/status/1529115395935698950' target='_blank'>@Param_eth Php was recalled 15 year ago - 05/24/2022</a></li>
+<li><a href='https://twitter.com/blakesanie/status/1531132886597836800' target='_blank'>Now for @NBA ! Here's the graphical recap of the @celtics game 7 win over the @MiamiHEAT this evening. The Heat got within distance a few times, but never capitalized. Next up, the @warriors on Thursday!  - 05/30/2022</a></li>
+<li><a href='https://twitter.com/blakesanie/status/1531069727035904000' target='_blank'>Graphical  @mlb recap of today's @SFGiantsFans at @Reds matchup. The Reds made 3 pitching changes before blowing the lead in T8!  - 05/30/2022</a></li>
+<li><a href='https://twitter.com/blakesanie/status/1530787717260247040' target='_blank'>Been working on a @MLB score analysis project. Here's a graphic recap of the @Nationals win over the @Rockies today! ML soon, hopefully  - 05/29/2022</a></li>
+<li><a href='https://twitter.com/blakesanie/status/1529839978028539904' target='_blank'>@GTBaseball Is there a link to live box score? - 05/26/2022</a></li>
+<li><a href='https://twitter.com/blakesanie/status/1529115395935698950' target='_blank'>@Param_eth Php was recalled 15 year ago - 05/24/2022</a></li>
 
 </ul>
 
