@@ -28,7 +28,7 @@ for tweet in tweets.data:
     text = ' '.join(tweet.text.split('\n'))
     text = removeLinksPattern.sub('', text)
     date = tweet.created_at.strftime('%m/%d/%Y')
-    link = 'https://twitter.com/BlakeSanie/status/' + str(tweet.id)
+    link = 'https://twitter.com/blakesanie/status/' + str(tweet.id)
     html += f"""<li><a href='{link}' target='_blank'>{text} - {date}</a></li>
 """
 
