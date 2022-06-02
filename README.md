@@ -171,7 +171,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakesanie&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
@@ -250,7 +250,7 @@ Swift                    3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/blakesanie/blakesanie/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/06/2022 03:55:40 UTC
+ Last Updated on 02/06/2022 04:55:16 UTC
 <!--END_SECTION:waka-->
 
 </details>
