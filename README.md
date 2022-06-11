@@ -262,11 +262,11 @@ Swift                    3 repos             █░░░░░░░░░░�
 
 <!--Start Twitter--><ul>
 
+<li><a href='https://twitter.com/blakesanie/status/1535252219859197952' target='_blank'>RT @CarlaNotarobot: If you hold a Unix shell up to your ear, you can hear the C. - 06/10/2022</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1534157512823517187' target='_blank'>RT @ChristophMolnar: Watching the k-means cluster slowly converge  - 06/07/2022</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1533651002150248448' target='_blank'>Now back in SF, the @warriors blow out the @celtics, having almost reached a 30 point lead at one point. #BOSvsGSW #DubNation #WarriorsGround #NBAFinals #NBAFinals2022  - 06/06/2022</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1533499332477222913' target='_blank'>RT @MIT_CSAIL: How to confuse your machine learning model.   (credit: @teenybiscuit)  - 06/05/2022</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1532568983659941889' target='_blank'>Very competitive @NBA Finals game 1. After the @warriors had a respectable lead going into Q4, the @celtics dominantly took over to close out the game. #NBAFinals #Celtics #Warriors  - 06/03/2022</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1532089192355799040' target='_blank'>Debugging mode activated @github  - 06/01/2022</a></li>
 
 </ul>
 
