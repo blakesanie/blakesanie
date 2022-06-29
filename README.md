@@ -171,7 +171,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakesanie&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -179,7 +179,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 158 Contributions in the Year 2022
+> 🏆 160 Contributions in the Year 2022
  > 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
@@ -194,16 +194,16 @@
 ```text
 🌞 Morning    40 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
 🌆 Daytime    53 commits     ██████░░░░░░░░░░░░░░░░░░░   25.24% 
-🌃 Evening    88 commits     ██████████░░░░░░░░░░░░░░░   41.9% 
-🌙 Night      29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.81%
+🌃 Evening    87 commits     ██████████░░░░░░░░░░░░░░░   41.43% 
+🌙 Night      30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday       34 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.19% 
-Tuesday      33 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.71% 
-Wednesday    31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.76% 
+Tuesday      32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.24% 
+Wednesday    32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.24% 
 Thursday     27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.86% 
 Friday       19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.05% 
 Saturday     28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
@@ -250,7 +250,7 @@ Swift                    3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/blakesanie/blakesanie/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/06/2022 02:08:01 UTC
+ Last Updated on 29/06/2022 04:55:55 UTC
 <!--END_SECTION:waka-->
 
 </details>
