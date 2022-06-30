@@ -171,7 +171,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakesanie&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-323%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -179,7 +179,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 168 Contributions in the Year 2022
+> 🏆 170 Contributions in the Year 2022
  > 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
@@ -250,7 +250,7 @@ Swift                    3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/blakesanie/blakesanie/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/06/2022 02:07:49 UTC
+ Last Updated on 30/06/2022 04:46:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
