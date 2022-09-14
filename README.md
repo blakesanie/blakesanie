@@ -171,7 +171,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakesanie&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-428%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-428%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -179,7 +179,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 708 Contributions in the Year 2022
+> 🏆 709 Contributions in the Year 2022
  > 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
@@ -189,6 +189,49 @@
  > 
 > 🔑 13 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    43 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.94% 
+🌆 Daytime    57 commits     ██████░░░░░░░░░░░░░░░░░░░   25.11% 
+🌃 Evening    88 commits     █████████░░░░░░░░░░░░░░░░   38.77% 
+🌙 Night      39 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.18%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.54% 
+Tuesday      36 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.86% 
+Wednesday    26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.45% 
+Thursday     29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.78% 
+Friday       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.01% 
+Saturday     22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.69% 
+Sunday       56 commits     ██████░░░░░░░░░░░░░░░░░░░   24.67%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+Python                   23 mins             ██████████████████████░░░   88.7% 
+JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   7.04% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.12% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.75% 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
+
+🔥 Editors: 
+VS Code                  26 mins             █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      26 mins             █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -206,7 +249,7 @@ Swift                    3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/blakesanie/blakesanie/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 05:39:06 UTC
+ Last Updated on 14/09/2022 06:58:21 UTC
 <!--END_SECTION:waka-->
 
 </details>
