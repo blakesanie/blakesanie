@@ -171,7 +171,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakesanie&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -218,18 +218,17 @@ Sunday       67 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   4 hrs 9 mins        ████████████████████████░   97.51% 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42% 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88% 
+Python                   4 hrs 11 mins       ████████████████████████░   97.53% 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41% 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87% 
 Julia                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16% 
 BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🔥 Editors: 
-VS Code                  4 hrs 15 mins       █████████████████████████   100.0% 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+VS Code                  4 hrs 17 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      4 hrs 15 mins       █████████████████████████   100.0%
+Mac                      4 hrs 17 mins       █████████████████████████   100.0%
 
 ```
 
@@ -250,7 +249,7 @@ Swift                    3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/blakesanie/blakesanie/master/charts/bar_graph.png) 
 
 
- Last Updated on 10/10/2022 05:38:57 UTC
+ Last Updated on 10/10/2022 06:58:13 UTC
 <!--END_SECTION:waka-->
 
 </details>
