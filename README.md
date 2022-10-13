@@ -171,7 +171,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakesanie&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-438%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-444%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
@@ -218,15 +218,17 @@ Sunday       67 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   2 hrs               ████████████████████████░   99.14% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52% 
-Julia                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
+JavaScript               4 hrs 23 mins       █████████████░░░░░░░░░░░░   53.63% 
+Python                   2 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   30.45% 
+CSS                      1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69% 
+Julia                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
 🔥 Editors: 
-VS Code                  2 hrs 1 min         █████████████████████████   100.0%
+VS Code                  8 hrs 10 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      2 hrs 1 min         █████████████████████████   100.0%
+Mac                      8 hrs 10 mins       █████████████████████████   100.0%
 
 ```
 
@@ -247,7 +249,7 @@ Swift                    3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/blakesanie/blakesanie/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/10/2022 05:32:08 UTC
+ Last Updated on 13/10/2022 06:54:37 UTC
 <!--END_SECTION:waka-->
 
 </details>
