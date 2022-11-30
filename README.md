@@ -266,11 +266,11 @@ Swift                    3 repos             █░░░░░░░░░░�
 
 <!--Start Twitter--><ul>
 
+<li><a href='https://twitter.com/blakesanie/status/1597610858263502851' target='_blank'>This morning I found and reported a grammatical error in the NYT. Sorry to brag - 11/29/2022</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1596347885901123584' target='_blank'>It’s hilariously stunning how @rustlang might integrate a new exception raising keyword: “do yeet”. Get this to stable! - 11/26/2022</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1595499679546232832' target='_blank'>Thank you @huggingface for building an amazing AI development platform - 11/23/2022</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1579200091738738688' target='_blank'>I've taken an interest in generating Mandelbrot Set visualizations. Using Python (for-loops) crashes my MacBook, Python(NumPy + broadcasting) takes 2.5 hrs, but my new @JuliaLanguage and @PlutoJL implementation takes 15 minutes 🔥 #mandelbrotset  - 10/09/2022</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1575297849763545095' target='_blank'>RT @derekjeter: Yes!!! @TheJudge44 - 09/29/2022</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1537835755329953793' target='_blank'>The @warriors WIN the #NBAFinals2022! What a stellar performance by #FinalsMVP @StephenCurry30 to close out the postseason. Until December! #warriorsin6 #warriorsceltics #DUBSIN6 #DubsNation  - 06/17/2022</a></li>
 
 </ul>
 
