@@ -266,11 +266,11 @@ Swift                    3 repos             █░░░░░░░░░░�
 
 <!--Start Twitter--><ul>
 
+<li><a href='https://twitter.com/blakesanie/status/1605775029546889216' target='_blank'>Uhh yeah that’s exactly it, actually  - 12/22/2022</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1598435249654059043' target='_blank'>Machine Learning vs. Star Wars  - 12/01/2022</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1598025659334688768' target='_blank'>To avoid interrupting each other, humans unknowingly utilize the Carrier Sense Multiple Access protocol (Link Layer). CSMA/CD (real-time collision detection) if you’re extra polite. #networks #linklayer #csma - 11/30/2022</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1597610858263502851' target='_blank'>This morning I found and reported a grammatical error in the NYT. Sorry to brag - 11/29/2022</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1596347885901123584' target='_blank'>It’s hilariously stunning how @rustlang might integrate a new exception raising keyword: “do yeet”. Get this to stable! - 11/26/2022</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1595499679546232832' target='_blank'>Thank you @huggingface for building an amazing AI development platform - 11/23/2022</a></li>
 
 </ul>
 
