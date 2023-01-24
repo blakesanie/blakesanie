@@ -171,7 +171,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakesanie&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-539%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-540%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -236,11 +236,11 @@ Mac                      16 hrs 22 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               23 repos            ███████████░░░░░░░░░░░░░░   45.1% 
-Python                   13 repos            ██████░░░░░░░░░░░░░░░░░░░   25.49% 
-Jupyter Notebook         6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.8% 
-Swift                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+JavaScript               23 repos            ███████████░░░░░░░░░░░░░░   44.23% 
+Python                   13 repos            ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Jupyter Notebook         7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.46% 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.62% 
+Swift                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.77%
 
 ```
 
@@ -250,7 +250,7 @@ Swift                    3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/blakesanie/blakesanie/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/01/2023 18:26:32 UTC
+ Last Updated on 24/01/2023 20:23:32 UTC
 <!--END_SECTION:waka-->
 
 </details>
