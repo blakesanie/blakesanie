@@ -267,11 +267,11 @@ Swift                    3 repos             █░░░░░░░░░░�
 
 <!--Start Twitter--><ul>
 
+<li><a href='https://twitter.com/blakesanie/status/1624948016636649473' target='_blank'>Great halftime show, especially loved the outfit @rihanna  - 02/13/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1621228204337008640' target='_blank'>Finally, star wars fans and math enthusiasts unite  - 02/02/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1620198967488249856' target='_blank'>I was building Backprop on a computation graph today and saw this  - 01/30/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1610096853605056513' target='_blank'>@MLB Michael Jordan - 01/03/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1609687823975854080' target='_blank'>RT @aryehazan: I had this hanging on my office door for a couple of years. A nice illustration of how limits do/don't work. … - 01/01/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1605775029546889216' target='_blank'>Uhh yeah that’s exactly it, actually  - 12/22/2022</a></li>
 
 </ul>
 
