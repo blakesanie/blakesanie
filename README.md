@@ -264,11 +264,11 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 <!--Start Twitter--><ul>
 
+<li><a href='https://twitter.com/blakesanie/status/1628405864137646080' target='_blank'>@gyulanemeth85 @M_J_Robbins Thanks for the info! Is there any way I can try it? I might build a Chrome ext (or headless browser script) that traverses the DOM and cleverly adjusts the nodes/styles in-place according to workarounds on @M_J_Robbins website, inlines all CSS, strips JS, etc - 02/22/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1627778876670726172' target='_blank'>@M_J_Robbins is there an existing solution to scrape an existing webpage (in browser) to generate email-adjusted html? I could render my side project’s pages with an email-safe mode, but a global solution (maybe chrome ext) would be more impactful - 02/20/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1624948016636649473' target='_blank'>Great halftime show, especially loved the outfit @rihanna  - 02/13/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1621228204337008640' target='_blank'>Finally, star wars fans and math enthusiasts unite  - 02/02/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1620198967488249856' target='_blank'>I was building Backprop on a computation graph today and saw this  - 01/30/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1610096853605056513' target='_blank'>@MLB Michael Jordan - 01/03/2023</a></li>
 
 </ul>
 
