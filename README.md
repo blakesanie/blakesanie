@@ -264,11 +264,11 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 <!--Start Twitter--><ul>
 
-<li><a href='https://twitter.com/blakesanie/status/1631049201894281216' target='_blank'>Travelling Salesperson Problem - NP Hard  - 03/01/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1629557265022738432' target='_blank'>@GTBaseball what’s the first base coach’s name? - 02/25/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1628405864137646080' target='_blank'>@gyulanemeth85 @M_J_Robbins Thanks for the info! Is there any way I can try it? I might build a Chrome ext (or headless browser script) that traverses the DOM and cleverly adjusts the nodes/styles in-place according to workarounds on @M_J_Robbins website, inlines all CSS, strips JS, etc - 02/22/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1627778876670726172' target='_blank'>@M_J_Robbins is there an existing solution to scrape an existing webpage (in browser) to generate email-adjusted html? I could render my side project’s pages with an email-safe mode, but a global solution (maybe chrome ext) would be more impactful - 02/20/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1624948016636649473' target='_blank'>Great halftime show, especially loved the outfit @rihanna  - 02/13/2023</a></li>
+<li><a href='https://twitter.com/blakesanie/status/1632487205552750593' target='_blank'>Forget paying monthly for @googledrive or @Apple iCloud storage. I’m gonna mount @awscloud S3 to my Mac for $0.023/GB/Month - 03/05/2023</a></li>
+<li><a href='https://twitter.com/blakesanie/status/1632484344299134983' target='_blank'>I’m noticing that every time I’m on the treadmill, I constantly try to guesstimate my final mileage at the end of the time interval. Mental math never stops - 03/05/2023</a></li>
+<li><a href='https://twitter.com/blakesanie/status/1632449974549004289' target='_blank'>The beautiful thing is OpenAI effectively extracted 1536 (abstract) characteristics on which to represent text structure and meaning in detail. Can’t visualize, but can certainly theorize and utilize!  - 03/05/2023</a></li>
+<li><a href='https://twitter.com/blakesanie/status/1632423703517581315' target='_blank'>@codewithshripal Time saving tip! - 03/05/2023</a></li>
+<li><a href='https://twitter.com/blakesanie/status/1632388609926918152' target='_blank'>@MarriagePact any insight into how your match algo works? I first imagine either greedy knn matching without replacement, but better yet is a modified kmeans with n clusters for n marriages. Makes me wonder - 03/05/2023</a></li>
 
 </ul>
 
