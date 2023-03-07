@@ -264,11 +264,11 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 <!--Start Twitter--><ul>
 
+<li><a href='https://twitter.com/blakesanie/status/1632943551553085448' target='_blank'>@benawad Not to mention using NPM, async/await, the list goes on - 03/07/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1632839515822776321' target='_blank'>@AaplPhotos Reminds me of Steve Jobs pulling the first MacBook Air out of a Manila envelope that was on stage the whole time. Iconic moment - 03/06/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1632824310501974017' target='_blank'>Amazing design -The new @RobinhoodApp options strategy builder breaks down in-the-know techniques into digestible and easy action  - 03/06/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1632799662489890819' target='_blank'>@rjonesy Just another way real-time ML is game changing - 03/06/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1632768060116422661' target='_blank'>@theShaneLevine Not sure the “feature” is worth the hit to battery life and performance - 03/06/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1632560751196897280' target='_blank'>@dmokafa When I first got into ML, I would always fit to a point output. In the real world, the output could be correct.. time will reveal accuracy. Eventually, I adapted to fit models to a distribution - this way, inference meets intuition and interpretability - 03/06/2023</a></li>
 
 </ul>
 
