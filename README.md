@@ -264,11 +264,11 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 <!--Start Twitter--><ul>
 
+<li><a href='https://twitter.com/blakesanie/status/1632839515822776321' target='_blank'>@AaplPhotos Reminds me of Steve Jobs pulling the first MacBook Air out of a Manila envelope that was on stage the whole time. Iconic moment - 03/06/2023</a></li>
+<li><a href='https://twitter.com/blakesanie/status/1632824310501974017' target='_blank'>Amazing design -The new @RobinhoodApp options strategy builder breaks down in-the-know techniques into digestible and easy action  - 03/06/2023</a></li>
+<li><a href='https://twitter.com/blakesanie/status/1632799662489890819' target='_blank'>@rjonesy Just another way real-time ML is game changing - 03/06/2023</a></li>
+<li><a href='https://twitter.com/blakesanie/status/1632768060116422661' target='_blank'>@theShaneLevine Not sure the “feature” is worth the hit to battery life and performance - 03/06/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1632560751196897280' target='_blank'>@dmokafa When I first got into ML, I would always fit to a point output. In the real world, the output could be correct.. time will reveal accuracy. Eventually, I adapted to fit models to a distribution - this way, inference meets intuition and interpretability - 03/06/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1632558466526072833' target='_blank'>Why is photography therapeutic? In one big city full of traffic, it’s just me and my @sony a7. Literally blurring over the scene at 24mm  - 03/06/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1632487205552750593' target='_blank'>Forget paying monthly for @googledrive or @Apple iCloud storage. I’m gonna mount @awscloud S3 to my Mac for $0.023/GB/Month - 03/05/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1632484344299134983' target='_blank'>I’m noticing that every time I’m on the treadmill, I constantly try to guesstimate my final mileage at the end of the time interval. Mental math never stops - 03/05/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1632449974549004289' target='_blank'>The beautiful thing is OpenAI effectively extracted 1536 (abstract) characteristics on which to represent text structure and meaning in detail. Can’t visualize, but can certainly theorize and utilize!  - 03/05/2023</a></li>
 
 </ul>
 
