@@ -264,11 +264,11 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 <!--Start Twitter--><ul>
 
+<li><a href='https://twitter.com/blakesanie/status/1633255171588235265' target='_blank'>My apartment’s wifi blocks the @huggingface CDN. Can’t download my @PyTorch weights for an upcoming project. The lesson here? So many hackers at @GeorgiaTech, that you need to restrain us 😂 #deeplearning - 03/07/2023</a></li>
+<li><a href='https://twitter.com/blakesanie/status/1633252682889678848' target='_blank'>@heyeaslo @3blue1brown by Grant Sanderson. Reminds me of why I fell in love machine learning, every time. Those visuals, mmm 🤩 - 03/07/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1632943551553085448' target='_blank'>@benawad Not to mention using NPM, async/await, the list goes on - 03/07/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1632839515822776321' target='_blank'>@AaplPhotos Reminds me of Steve Jobs pulling the first MacBook Air out of a Manila envelope that was on stage the whole time. Iconic moment - 03/06/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1632824310501974017' target='_blank'>Amazing design -The new @RobinhoodApp options strategy builder breaks down in-the-know techniques into digestible and easy action  - 03/06/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1632799662489890819' target='_blank'>@rjonesy Just another way real-time ML is game changing - 03/06/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1632768060116422661' target='_blank'>@theShaneLevine Not sure the “feature” is worth the hit to battery life and performance - 03/06/2023</a></li>
 
 </ul>
 
