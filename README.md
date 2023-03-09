@@ -264,11 +264,11 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 <!--Start Twitter--><ul>
 
+<li><a href='https://twitter.com/blakesanie/status/1633607822544969729' target='_blank'>Real web devs use rems and ems as a default convention - 03/08/2023</a></li>
+<li><a href='https://twitter.com/blakesanie/status/1633488711974305793' target='_blank'>@shubgaur @MaxRewards does the research in the background, but it’s not applied automatically at checkout. I want this feature so bad - 03/08/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1633281453910810632' target='_blank'>@BasicAppleGuy Literally filled my move ring as I did this today - 03/08/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1633278339153534982' target='_blank'>Can confirm, @mark_riedl is the one for the job!  - 03/08/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1633255171588235265' target='_blank'>My apartment’s wifi blocks the @huggingface CDN. Can’t download my @PyTorch weights for an upcoming project. The lesson here? So many hackers at @GeorgiaTech, that you need to restrain us 😂 #deeplearning - 03/07/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1633252682889678848' target='_blank'>@heyeaslo @3blue1brown by Grant Sanderson. Reminds me of why I fell in love machine learning, every time. Those visuals, mmm 🤩 - 03/07/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1632943551553085448' target='_blank'>@benawad Not to mention using NPM, async/await, the list goes on - 03/07/2023</a></li>
 
 </ul>
 
