@@ -264,11 +264,11 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 <!--Start Twitter--><ul>
 
-<li><a href='https://twitter.com/blakesanie/status/1633607822544969729' target='_blank'>Real web devs use rems and ems as a default convention - 03/08/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1633488711974305793' target='_blank'>@shubgaur @MaxRewards does the research in the background, but it’s not applied automatically at checkout. I want this feature so bad - 03/08/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1633281453910810632' target='_blank'>@BasicAppleGuy Literally filled my move ring as I did this today - 03/08/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1633278339153534982' target='_blank'>Can confirm, @mark_riedl is the one for the job!  - 03/08/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1633255171588235265' target='_blank'>My apartment’s wifi blocks the @huggingface CDN. Can’t download my @PyTorch weights for an upcoming project. The lesson here? So many hackers at @GeorgiaTech, that you need to restrain us 😂 #deeplearning - 03/07/2023</a></li>
+<li><a href='https://twitter.com/blakesanie/status/1634321148019187717' target='_blank'>@GTBaseball what’s the first base coach’s name? - 03/10/2023</a></li>
+<li><a href='https://twitter.com/blakesanie/status/1634312823101698049' target='_blank'>@supabase Bad takes against .webp - 03/10/2023</a></li>
+<li><a href='https://twitter.com/blakesanie/status/1634301676017393669' target='_blank'>Why go to the gym? When your grocery bags self-destruct with 4 blocks to go, you pull through with your bare hands 😤 stay prepared out there - 03/10/2023</a></li>
+<li><a href='https://twitter.com/blakesanie/status/1634214696017338370' target='_blank'>@trashh_dev Hot take - @typescript becomes exponentially essential with code base size, but for run-and-gun solo dev work, the few moments of confusion don’t justify the productivity and verbosity hit - 03/10/2023</a></li>
+<li><a href='https://twitter.com/blakesanie/status/1634214105379745794' target='_blank'>Wanting new features/layouts on my website, decided I may as well rewrite with even heavier optimization 🤷🏻‍♂️. This time I’ll migrate from @nextjs to @astrodotbuild for unbeatable browser performance with #SSG and future framework flexibility #comingsoon - 03/10/2023</a></li>
 
 </ul>
 
