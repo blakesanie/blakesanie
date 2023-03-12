@@ -264,11 +264,11 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 <!--Start Twitter--><ul>
 
+<li><a href='https://twitter.com/blakesanie/status/1634718083238486016' target='_blank'>@traversymedia Dark mode vscode, light mode OS. Puzzling - 03/12/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1634652519854112768' target='_blank'>@fridaystarters @GTBaseball He’s allowed 2 hits through 4 IP, and has 2 hits himself 😤 - 03/11/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1634607784808394761' target='_blank'>“Approved for Public Release”  - 03/11/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1634321148019187717' target='_blank'>@GTBaseball what’s the first base coach’s name? - 03/10/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1634312823101698049' target='_blank'>@supabase Bad takes against .webp - 03/10/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1634301676017393669' target='_blank'>Why go to the gym? When your grocery bags self-destruct with 4 blocks to go, you pull through with your bare hands 😤 stay prepared out there - 03/10/2023</a></li>
 
 </ul>
 
