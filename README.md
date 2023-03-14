@@ -264,11 +264,11 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 <!--Start Twitter--><ul>
 
+<li><a href='https://twitter.com/blakesanie/status/1635412285161340928' target='_blank'>Grew a beard this winter and my faceID rejects me half the time. Simultaneously a feature and bug. @Apple when is the facial hair invariant perception tech being rolled out? - 03/13/2023</a></li>
+<li><a href='https://twitter.com/blakesanie/status/1635399588415967232' target='_blank'>Did this in my DL grad class. Perform a forward pass on an input image X, then tune X itself by gradient ascent via backprop only with respect to the alternate class. Repeat until the alternate class is predicted. Mind-blowing stuff!  - 03/13/2023</a></li>
+<li><a href='https://twitter.com/blakesanie/status/1635397876758241281' target='_blank'>Dear astro-imagetools and astro-image, your innovation in #SSG for @astrodotbuild saved me big time today. The pinnacle of front-end #DX.   - 03/13/2023</a></li>
+<li><a href='https://twitter.com/blakesanie/status/1635324082156879872' target='_blank'>RT @mark_riedl: I used #ChatGPT to fill out my NCAA Men's Basketball Bracket. Let's go... Gonzaga.  - 03/13/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1634718083238486016' target='_blank'>@traversymedia Dark mode vscode, light mode OS. Puzzling - 03/12/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1634652519854112768' target='_blank'>@fridaystarters @GTBaseball He’s allowed 2 hits through 4 IP, and has 2 hits himself 😤 - 03/11/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1634607784808394761' target='_blank'>“Approved for Public Release”  - 03/11/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1634321148019187717' target='_blank'>@GTBaseball what’s the first base coach’s name? - 03/10/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1634312823101698049' target='_blank'>@supabase Bad takes against .webp - 03/10/2023</a></li>
 
 </ul>
 
