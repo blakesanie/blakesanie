@@ -263,11 +263,11 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 <!--Start Twitter--><ul>
 
+<li><a href='https://twitter.com/blakesanie/status/1636058122471997443' target='_blank'>Playing the #whitealbum on the treadmill brings out a different kind of energy. Every track delivers, even Wild Honey Pie - 03/15/2023</a></li>
+<li><a href='https://twitter.com/blakesanie/status/1636014301881270274' target='_blank'>Looks like I’ve still got GPT-4 beat w.r.t the SAT, AP Lit, AP Calc, AP Chem, and of course, @LeetCode easy/med/hard  - 03/15/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1635708605700747265' target='_blank'>@SoFi when will your investing platform be FDIC insured? - 03/14/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1635450267767541762' target='_blank'>Thats no moon...   - 03/14/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1635412285161340928' target='_blank'>Grew a beard this winter and my faceID rejects me half the time. Simultaneously a feature and bug. @Apple when is the facial hair invariant perception tech being rolled out? - 03/13/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1635399588415967232' target='_blank'>Did this in my DL grad class. Perform a forward pass on an input image X, then tune X itself by gradient ascent via backprop only with respect to the alternate class. Repeat until the alternate class is predicted. Mind-blowing stuff!  - 03/13/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1635397876758241281' target='_blank'>Dear astro-imagetools and astro-image, your innovation in #SSG for @astrodotbuild saved me big time today. The pinnacle of front-end #DX.   - 03/13/2023</a></li>
 
 </ul>
 
