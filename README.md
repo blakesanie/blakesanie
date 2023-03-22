@@ -261,11 +261,11 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 <!--Start Twitter--><ul>
 
+<li><a href='https://twitter.com/blakesanie/status/1638310346267000832' target='_blank'>@ThatOHGuy It’s a job offer you can’t refuse - 03/21/2023</a></li>
+<li><a href='https://twitter.com/blakesanie/status/1638279870668066818' target='_blank'>@arcinternet because it helps me deal with infinite tab syndrome - and does so effectively and beautifully  - 03/21/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1637257176128401408' target='_blank'>@devagrawal09 XSS waiting to happen - 03/19/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1636058122471997443' target='_blank'>Playing the #whitealbum on the treadmill brings out a different kind of energy. Every track delivers, even Wild Honey Pie - 03/15/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1636014301881270274' target='_blank'>Looks like I’ve still got GPT-4 beat w.r.t the SAT, AP Lit, AP Calc, AP Chem, and of course, @LeetCode easy/med/hard  - 03/15/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1635708605700747265' target='_blank'>@SoFi when will your investing platform be FDIC insured? - 03/14/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1635450267767541762' target='_blank'>Thats no moon...   - 03/14/2023</a></li>
 
 </ul>
 
