@@ -171,17 +171,17 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakesanie&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-681.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-683.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
-> 🏆 191 Contributions in the Year 2023
+> 🏆 192 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -192,21 +192,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                233 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-🌆 Daytime                457 commits         ███████░░░░░░░░░░░░░░░░░░   27.70 % 
-🌃 Evening                662 commits         ██████████░░░░░░░░░░░░░░░   40.12 % 
-🌙 Night                  298 commits         █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+🌞 Morning                234 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+🌆 Daytime                457 commits         ███████░░░░░░░░░░░░░░░░░░   27.68 % 
+🌃 Evening                662 commits         ██████████░░░░░░░░░░░░░░░   40.10 % 
+🌙 Night                  298 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Tuesday                  223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Wednesday                241 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Monday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Tuesday                  223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Wednesday                241 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
 Thursday                 185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Friday                   194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Saturday                 267 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Sunday                   340 commits         █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+Friday                   194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Saturday                 267 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Sunday                   341 commits         █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
 ```
 
 
@@ -247,7 +247,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blakesanie/blakesanie/master/assets/bar_graph.png)
 
 
- Last Updated on 09/04/2023 14:14:45 UTC
+ Last Updated on 09/04/2023 16:21:31 UTC
 <!--END_SECTION:waka-->
 
 </details>
