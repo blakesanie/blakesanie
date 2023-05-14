@@ -263,11 +263,11 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 <!--Start Twitter--><ul>
 
+<li><a href='https://twitter.com/blakesanie/status/1657502091945054208' target='_blank'>Meet my very very smart friend Dylan. Major props!  - 05/13/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1655714921836085249' target='_blank'>One day I’ll hire someone to unsubscribe from the hundreds of mailing lists that plague my inbox - 05/08/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1646312712295829504' target='_blank'>@soren_iverson Loved this series! Thanks! - 04/13/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1638653595552710656' target='_blank'>@BasicAppleGuy This happens every other day at this point. Good as dead - 03/22/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1638310346267000832' target='_blank'>@ThatOHGuy It’s a job offer you can’t refuse - 03/21/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1638279870668066818' target='_blank'>@arcinternet because it helps me deal with infinite tab syndrome - and does so effectively and beautifully  - 03/21/2023</a></li>
 
 </ul>
 
