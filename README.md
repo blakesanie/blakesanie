@@ -263,11 +263,11 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 <!--Start Twitter--><ul>
 
+<li><a href='https://twitter.com/blakesanie/status/1664514173563469824' target='_blank'>🫱🏻‍🫲🏼  - 06/02/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1664086151874105345' target='_blank'>@peterpme Two gets hoisted. Slightly less elegant, but more flexible and functional - 06/01/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1662966834960945152' target='_blank'>My portfolio site @nextjs ➡️ @astrodotbuild migration is on the way - the initial version is live! Here's a sneak preview of dynamic OG image serving using SSR on @vercel within my photography portfolio ⬇️  - 05/28/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1662280481860354050' target='_blank'>Leveraging today's AI, can I write high-quality blog content by passively recording one-take audio blurbs (a very rough draft, a brainstorm even) between sets at the gym, combining the audio files, and pressing "Go"? I'll investigate. This is gonna be... interesting for sure - 05/27/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1660711709106118656' target='_blank'>@pixelmator is there a plan to include lens correction controls (barrel and pincushion distortion) within Photomator? These would be an incredible addition to the existing, but limiting rectilinear perspective control tools. Thanks! - 05/22/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1657502091945054208' target='_blank'>Meet my very very smart friend Dylan. Major props!  - 05/13/2023</a></li>
 
 </ul>
 
