@@ -216,15 +216,13 @@ Sunday                   589 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-HTML                     5 mins              ████████████░░░░░░░░░░░░░   48.08 % 
-CSS                      4 mins              ███████████░░░░░░░░░░░░░░   44.12 % 
-JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -244,7 +242,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blakesanie/blakesanie/master/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2023 04:20:05 UTC
+ Last Updated on 21/08/2023 06:22:06 UTC
 <!--END_SECTION:waka-->
 
 </details>
