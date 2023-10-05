@@ -171,7 +171,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakesanie&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-765%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-766%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -216,15 +216,15 @@ Sunday                   641 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-GDScript3                6 hrs 26 mins       ██████████████████████░░░   87.51 % 
-Python                   55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+GDScript3                4 hrs 41 mins       ████████████████████░░░░░   79.79 % 
+Python                   1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 53 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 21 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -244,7 +244,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blakesanie/blakesanie/master/assets/bar_graph.png)
 
 
- Last Updated on 05/10/2023 04:20:23 UTC
+ Last Updated on 05/10/2023 06:23:22 UTC
 <!--END_SECTION:waka-->
 
 </details>
