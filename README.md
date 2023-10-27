@@ -171,7 +171,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakesanie&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-779%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-780%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -216,17 +216,17 @@ Sunday                   647 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   2 hrs 24 mins       ██████████████░░░░░░░░░░░   56.15 % 
-Assembly                 1 hr 19 mins        ████████░░░░░░░░░░░░░░░░░   30.90 % 
-TSQL                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-ActionScript 3           14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Ezhil                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Python                   3 hrs 15 mins       █████████████████░░░░░░░░   66.16 % 
+Assembly                 1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   27.46 % 
+ActionScript 3           14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Ezhil                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 17 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 55 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 17 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -246,7 +246,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blakesanie/blakesanie/master/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2023 04:20:46 UTC
+ Last Updated on 27/10/2023 06:22:40 UTC
 <!--END_SECTION:waka-->
 
 </details>
