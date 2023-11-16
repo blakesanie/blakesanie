@@ -171,7 +171,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakesanie&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-790%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-792%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -242,7 +242,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blakesanie/blakesanie/master/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2023 01:15:51 UTC
+ Last Updated on 16/11/2023 02:31:25 UTC
 <!--END_SECTION:waka-->
 
 </details>
