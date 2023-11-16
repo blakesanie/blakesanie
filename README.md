@@ -171,7 +171,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakesanie&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-793%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-788%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -228,11 +228,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               22 repos            █████████░░░░░░░░░░░░░░░░   36.07 % 
-Jupyter Notebook         14 repos            ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-Python                   13 repos            █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+JavaScript               22 repos            █████████░░░░░░░░░░░░░░░░   36.67 % 
+Jupyter Notebook         14 repos            ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+Python                   13 repos            █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 
 
@@ -242,7 +242,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blakesanie/blakesanie/master/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2023 04:22:38 UTC
+ Last Updated on 16/11/2023 06:24:42 UTC
 <!--END_SECTION:waka-->
 
 </details>
