@@ -171,7 +171,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakesanie&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-805%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-809%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -181,7 +181,7 @@
 
 > 📦 4.5 MB Used in GitHub's Storage 
  > 
-> 🏆 1,933 Contributions in the Year 2023
+> 🏆 1,935 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -216,17 +216,17 @@ Sunday                   185 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Astro                    1 hr 5 mins         ███████████████░░░░░░░░░░   59.55 % 
-Python                   24 mins             █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-TeX                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Astro                    3 hrs 22 mins       ████████████████░░░░░░░░░   64.17 % 
+JavaScript               1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+Python                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+TeX                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 🔥 Editors: 
-VS Code                  1 hr 50 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 50 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -246,7 +246,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blakesanie/blakesanie/master/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2023 06:24:32 UTC
+ Last Updated on 05/12/2023 08:23:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
