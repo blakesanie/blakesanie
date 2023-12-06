@@ -171,8 +171,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakesanie&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-809%20hrs%2019%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
@@ -189,46 +187,6 @@
  > 
 > 🔑 19 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-🌆 Daytime                316 commits         ████████░░░░░░░░░░░░░░░░░   30.41 % 
-🌃 Evening                451 commits         ███████████░░░░░░░░░░░░░░   43.41 % 
-🌙 Night                  139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   193 commits         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-Tuesday                  142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Wednesday                125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Thursday                 99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Friday                   114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Saturday                 181 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-Sunday                   185 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-Astro                    3 hrs 22 mins       ████████████████░░░░░░░░░   64.17 % 
-JavaScript               1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Python                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-TeX                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-
-🔥 Editors: 
-VS Code                  5 hrs 15 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      5 hrs 15 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -246,7 +204,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blakesanie/blakesanie/master/assets/bar_graph.png)
 
 
- Last Updated on 06/12/2023 04:22:51 UTC
+ Last Updated on 06/12/2023 06:24:05 UTC
 <!--END_SECTION:waka-->
 
 </details>
