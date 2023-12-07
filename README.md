@@ -171,6 +171,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakesanie&layout=compact)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-809%20hrs%2019%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
@@ -214,17 +216,17 @@ Sunday                   185 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Astro                    3 hrs 22 mins       ████████████████░░░░░░░░░   64.17 % 
-JavaScript               1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Python                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-TeX                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Astro                    3 hrs 22 mins       █████████████████░░░░░░░░   69.21 % 
+JavaScript               1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+TeX                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 15 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 15 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -244,7 +246,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blakesanie/blakesanie/master/assets/bar_graph.png)
 
 
- Last Updated on 07/12/2023 06:24:29 UTC
+ Last Updated on 07/12/2023 08:23:14 UTC
 <!--END_SECTION:waka-->
 
 </details>
