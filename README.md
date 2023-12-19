@@ -216,17 +216,13 @@ Sunday                   185 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Astro                    1 hr 32 mins        ██████████████████░░░░░░░   71.83 % 
-JSON                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Other                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 9 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 9 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -246,7 +242,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blakesanie/blakesanie/master/assets/bar_graph.png)
 
 
- Last Updated on 19/12/2023 06:24:16 UTC
+ Last Updated on 19/12/2023 08:23:03 UTC
 <!--END_SECTION:waka-->
 
 </details>
