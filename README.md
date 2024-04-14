@@ -171,6 +171,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakesanie&layout=compact)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-821%20hrs%2052%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
@@ -185,6 +187,42 @@
  > 
 > 🔑 19 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+🌆 Daytime                439 commits         ████████░░░░░░░░░░░░░░░░░   33.95 % 
+🌃 Evening                542 commits         ██████████░░░░░░░░░░░░░░░   41.92 % 
+🌙 Night                  165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   247 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+Tuesday                  155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Wednesday                144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Thursday                 183 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Friday                   142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Saturday                 217 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Sunday                   205 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -202,7 +240,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blakesanie/blakesanie/master/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2024 04:43:01 UTC
+ Last Updated on 14/04/2024 07:57:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
