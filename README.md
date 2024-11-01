@@ -259,11 +259,11 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 <!--Start Twitter--><ul>
 
+<li><a href='https://twitter.com/blakesanie/status/1731349267803984352' target='_blank'>Breadth First Search  - 12/03/2023</a></li>
+<li><a href='https://twitter.com/blakesanie/status/1672220429337886720' target='_blank'>And @googlephotos keeps going! My photographic style isn’t up to your standards, I get it  - 06/23/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1669320001264709632' target='_blank'>Captured and developed this photograph yesterday, but now @googlephotos wants to play dirty  - 06/15/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1664514173563469824' target='_blank'>🫱🏻‍🫲🏼  - 06/02/2023</a></li>
 <li><a href='https://twitter.com/blakesanie/status/1664086151874105345' target='_blank'>@peterpme Two gets hoisted. Slightly less elegant, but more flexible and functional - 06/01/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1662966834960945152' target='_blank'>My portfolio site @nextjs ➡️ @astrodotbuild migration is on the way - the initial version is live! Here's a sneak preview of dynamic OG image serving using SSR on @vercel within my photography portfolio ⬇️  - 05/28/2023</a></li>
-<li><a href='https://twitter.com/blakesanie/status/1662280481860354050' target='_blank'>Leveraging today's AI, can I write high-quality blog content by passively recording one-take audio blurbs (a very rough draft, a brainstorm even) between sets at the gym, combining the audio files, and pressing "Go"? I'll investigate. This is gonna be... interesting for sure - 05/27/2023</a></li>
 
 </ul>
 
