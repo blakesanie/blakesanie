@@ -181,8 +181,6 @@
 
 > 📦 4.6 MB Used in GitHub's Storage 
  > 
-> 🏆 112 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 30 Public Repositories 
@@ -242,7 +240,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blakesanie/blakesanie/master/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2024 14:22:15 UTC
+ Last Updated on 15/11/2024 18:31:22 UTC
 <!--END_SECTION:waka-->
 
 </details>
