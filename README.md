@@ -171,8 +171,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakesanie&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-821%20hrs%2052%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.9%20million%20lines%20of%20code-blue)
@@ -181,7 +179,7 @@
 
 > 📦 4.8 MB Used in GitHub's Storage 
  > 
-> 🏆 146 Contributions in the Year 2025
+> 🏆 147 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -242,7 +240,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blakesanie/blakesanie/master/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2025 03:12:23 UTC
+ Last Updated on 28/09/2025 04:28:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
